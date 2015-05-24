@@ -55,8 +55,13 @@ module.exports.get10Words = function (req, res) {
             var n = words_arr.length;
             var words =[] ;
 
-            for (var i = 0; i < 40; i++)
-                words.push(words_arr[Math.floor(Math.random() * n)]);
+            for (var i = 0; i < 40; i++) {
+                var temp = words_arr[Math.floor(Math.random() * n)];
+                if(words.indexOf(temp) == -1)
+                    words.push(temp);
+                else
+                    i--;
+            }
 
             for (var i = 0; i < 10; i++) {
                 words[i]._doc.option1 = words[i+10].description;
