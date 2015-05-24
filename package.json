@@ -7,7 +7,15 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "~4.9.x"
+    "express": "*",
+    "mongoose": "*",
+    "winston": "*",
+    "body-parser": "*",
+    "request":"*",
+    "winston": "*",
+    "winston-mongodb": "*",
+    "async": "*",
+    "underscore":"*"
   },
   "engines": {
     "node": "0.12.2"

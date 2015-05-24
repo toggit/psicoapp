@@ -13,10 +13,11 @@ var winston = new(winston.Logger)({
         new(winston.transports.MongoDB)({
             db: global.DB_NAME,
             host: global.DB_HOST,
+          //  port: global.DB_PORT,
             collection: 'logs',
-            level: 'debug'
-            //username : global.DB_USERNAME,
-            //password : global.DB_PASSWORD'
+            level: 'debug',
+            username : global.DB_USERNAME,
+            password : global.DB_PASSWORD
         })
     ]
 });
