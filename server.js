@@ -24,7 +24,7 @@ var Mongoose = require("mongoose");
 //var logger = require('./server/utils/logger');
 var http = require('http');
 var bodyParser = require('body-parser');
-//var api = require('./server/routers/api');
+var api = require('./server/routers/api');
 var static_resource = require('./server/routers/static');
 
 //********************************* connect to db ****************************************
@@ -49,18 +49,21 @@ app.use(bodyParser.json());
 
 //************************************* server: web services ******************************
 
+
 app.use('/', function (req, res, next) {
     next();
 });
+
+
 
 //****************** User Authentication ******************************
 //app.use('/', sso);
 
 //****************** static resource *****************************
-app.use('/', static_resource);
+//app.use('/', static_resource);
 
 //****************** api restfull ********************************
-//app.use('/api', api);
+app.use('/api', api);
 
 //******************* default route ***************************
 //app.all("/*", function (req, res) {
