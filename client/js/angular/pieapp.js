@@ -12,7 +12,7 @@ pieapp.config(function($stateProvider) {
         name: 'connection',
         url: "/connection",
         //templateUrl: "angular/templates/widgets.html",
-        templateUrl: "angular/templates/table.html",
+        templateUrl: "js/angular/templates/table.html",
         controller: 'connectionCtrl',
         resolve: {
             re: function(connectionSrv) {
@@ -25,7 +25,7 @@ pieapp.config(function($stateProvider) {
     var addConnection = {
         name: 'connection.add',
         url: "",
-        templateUrl: "angular/templates/wizard.html"
+        templateUrl: "js/angular/templates/wizard.html"
         //controller:'wizardCtrl'
         //resolve:{re : function(connectionSrv){return connectionSrv.get();}}
 
@@ -47,7 +47,7 @@ pieapp.config(function($stateProvider) {
     var chart = {
         name: 'connectionMenu.chart',
         url: "",
-        templateUrl: "angular/templates/morris.html"
+        templateUrl: "js/angular/templates/morris.html"
     }
 
     var connectionLog = {
@@ -73,7 +73,7 @@ pieapp.config(function($stateProvider) {
         //abstract:true,
         name: 'table',
         url: "/table",
-        templateUrl: "angular/templates/table.html",
+        templateUrl: "js/angular/templates/table.html",
         controller: 'tableCtrl' //,
         //resolve:{aa : function(connectionSrv){return connectionSrv.get();}}
     }
@@ -81,7 +81,7 @@ pieapp.config(function($stateProvider) {
     var tableaddConnection = {
         name: 'table.add',
         url: "",
-        templateUrl: "angular/templates/wizard.html"
+        templateUrl: "js/angular/templates/wizard.html"
         //controller:'connectionCtrl'
         //resolve:{re : function(connectionSrv){return connectionSrv.get();}}
 
@@ -90,7 +90,7 @@ pieapp.config(function($stateProvider) {
     var test = {
         name: 'test',
         url: "/test",
-        templateUrl: "angular/templates/datatables.html",
+        templateUrl: "js/angular/templates/datatables.html",
         controller: 'tctrl'
         //resolve:{re : function(connectionSrv){return connectionSrv.get();}}
 
@@ -99,7 +99,7 @@ pieapp.config(function($stateProvider) {
     var page3 = {
         name: 'ppp',
         url: "/ppp",
-        templateUrl: "angular/templates/pppp.html"
+        templateUrl: "js/angular/templates/pppp.html"
 
     }
 
