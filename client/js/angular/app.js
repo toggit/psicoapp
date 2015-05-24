@@ -44,7 +44,7 @@ app.config(function($stateProvider) {
     var login = {
         name: 'login',
         url: '/login',
-        templateUrl: "angular/templates/login.html",
+        templateUrl: "js/angular/templates/login.html",
         controller: 'login'
 
     }
@@ -52,7 +52,7 @@ app.config(function($stateProvider) {
     var registration = {
         name: 'registration',
         url: '/registration',
-        templateUrl: "angular/templates/registration.html"//,
+        templateUrl: "js/angular/templates/registration.html"//,
         //controller: 'login'
 
     }
@@ -60,7 +60,7 @@ app.config(function($stateProvider) {
     var about = {
         name: 'about',
         url: '/about',
-        templateUrl: "angular/templates/about.html"//,
+        templateUrl: "js/angular/templates/about.html"//,
         //controller: 'login'
 
     }
@@ -68,7 +68,7 @@ app.config(function($stateProvider) {
     var contact = {
         name: 'contact',
         url: '/contact',
-        templateUrl: "angular/templates/contact.html"//,
+        templateUrl: "js/angular/templates/contact.html"//,
         //controller: 'login'
 
     }
@@ -77,7 +77,7 @@ app.config(function($stateProvider) {
         //url: 'menu',
         name: 'menu',
         url: '',
-        templateUrl: "angular/templates/menu.html",
+        templateUrl: "js/angular/templates/menu.html",
         controller: function($scope,$state){
             $scope.go = function(langdata){ $state.go('chars',{lang:langdata})}
         }
@@ -87,21 +87,21 @@ app.config(function($stateProvider) {
     var chars = {
         name: 'chars',
         url: '/chars/:lang',
-        templateUrl: "angular/templates/chars.html",
+        templateUrl: "js/angular/templates/chars.html",
         controller: 'chars'
     }
 
     var exercise = {
         name: 'exercise',
         url: '/exercise/:lang',
-        templateUrl: "angular/templates/exercise.html",
+        templateUrl: "js/angular/templates/exercise.html",
         controller: 'exercise'
     }
 
     var summary = {
         name: 'summary',
         url: '/summary',
-        templateUrl: "angular/templates/summary.html"//,
+        templateUrl: "js/angular/templates/summary.html"//,
         //controller: 'login'
     }
 
