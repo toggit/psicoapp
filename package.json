@@ -7,15 +7,15 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "async": "*",
+    "body-parser": "*",
+    "cors": "^2.6.0",
     "express": "*",
     "mongoose": "*",
+    "request": "*",
+    "underscore": "*",
     "winston": "*",
-    "body-parser": "*",
-    "request":"*",
-    "winston": "*",
-    "winston-mongodb": "*",
-    "async": "*",
-    "underscore":"*"
+    "winston-mongodb": "*"
   },
   "engines": {
     "node": "0.12.2"
