@@ -26,7 +26,7 @@ var http = require('http');
 var bodyParser = require('body-parser');
 var api = require('./server/routers/api');
 var static_resource = require('./server/routers/static');
-
+var cors = require('cors');
 //********************************* connect to db ****************************************
 Mongoose.connect(global.CONNECTION_STRING, function(err) {
 
@@ -41,6 +41,7 @@ Mongoose.createConnection(global.CONNECTION_STRING, function (err, result) {
         console.log(result);
 });
 
+app.use(cors());
 //******************************** body parseer for req body ******************************
 app.use(bodyParser.urlencoded({
     extended: true
@@ -60,7 +61,7 @@ app.use('/', function (req, res, next) {
 //app.use('/', sso);
 
 //****************** static resource *****************************
-//app.use('/', static_resource);
+app.use('/', static_resource);
 
 //****************** api restfull ********************************
 app.use('/api', api);

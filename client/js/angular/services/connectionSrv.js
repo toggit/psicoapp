@@ -6,11 +6,12 @@ app.factory('connectionSrv',function($http,$q){
     return{
         get: function(){
             //var p=
+            var mongo = 'http://192.168.1.150:5000/api/words';
             var good = 'http://192.168.1.150:8089/psico/words/123';
             var server = 'http://psicoproject.herokuapp.com/psico/words/123';
                 var deffered = $q.defer();
                 $http({
-                    url:good,
+                    url:mongo,
                     params: { 'foobar': new Date().getTime() }
                 }).
                     success(function(data){
