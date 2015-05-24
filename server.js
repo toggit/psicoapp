@@ -1,12 +1,13 @@
 //****************** globals variables configuration ******************************
 
 // dev
-global.DB_HOST = '';
-global.DB_NAME = '';
-global.DB_PORT = 27017;
-global.DB_USERNAME = '';
-global.DB_PASSWORD = '';
+global.DB_HOST = 'ds027491.mongolab.com';
+global.DB_NAME = 'togblog';
+global.DB_PORT = 27491;
+global.DB_USERNAME = 'togblog';
+global.DB_PASSWORD = '1q2w3e4r';
 global.CONNECTION_STRING = 'mongodb://' + global.DB_HOST + ':' + global.DB_PORT + '/' + global.DB_NAME;
+//mongodb://<dbuser>:<dbpassword>@ds027491.mongolab.com:27491/togblog
 
 // prod
 //global.DB_HOST = '';
@@ -45,7 +46,6 @@ app.use(bodyParser.urlencoded({
     extended: true
 }));
 app.use(bodyParser.json());
-
 
 
 app.set('port', (process.env.PORT || 5000));
