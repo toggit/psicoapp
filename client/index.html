@@ -1,0 +1,59 @@
+<html ng-app="app" >
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="bootstrap/css/bootstrap.min.css" type="text/css"  rel="stylesheet">
+	<!--<link rel="stylesheet" type="text/css" href="css/flat-ui.css">-->
+	<link rel="stylesheet" type="text/css" href="css/mycss.css">
+	<!--<link href="css/demo.css" rel="stylesheet">-->
+</head>
+<!--<body style="background-color: #1abc9c;">-->
+
+<header class="container">
+	<div id="menu" class="navbar navbar-defualt blue-skin text-white navbar-fixed-top">
+		<div class="navbar-header">
+			<button class="btn btn-success navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+				<span class="glyphicon glyphicon-align-justify"></span>
+			</button>
+			<a href="#" class="a-white"><h4>Psico Project</h4></a>
+		</div>
+
+		<div class="collapse navbar-collapse">
+			<ul class="nav navbar-nav navbar-right">
+				<li class="nav"><a class="text-white heb-text" href="#">תפריט</a></li>
+				<li class="nav"><a class="text-white heb-text" href="#contact">צור קשר</a></li>
+				<li class="nav"><a class="text-white heb-text" href="#about">אודותינו</a></li>
+				<li class="nav"><a class="text-white heb-text"href="#login">התחברות</a></li>
+			</ul>
+		</div>
+	</div>
+</header>
+<body class="container" style="background-color:#B0C4DE;">
+	
+
+
+	<div style="margin-top:60px" ui-view >WOW</div>
+
+</body>
+
+<script type="text/javascript" src="angular/js/angular.min.js"></script>
+<script type="text/javascript" src="angular/js/router-ui.js"></script>
+<script type="text/javascript" src="angular/app.js"></script>
+<script type="text/javascript" src="angular/services/connectionSrv.js" ></script>
+<script type="text/javascript" src="angular/controllers/login.js" ></script>
+<script type="text/javascript" src="angular/controllers/chars.js" ></script>
+<script type="text/javascript" src="angular/controllers/exercise.js" ></script>
+
+</html>
+
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+
+
+<script type="text/javascript">
+	$(document).ready(function () {
+$(".navbar-nav li a").click(function(event) {
+$(".navbar-collapse").collapse('hide');
+});
+});
+</script>

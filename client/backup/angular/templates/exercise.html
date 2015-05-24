@@ -1,0 +1,61 @@
+<div class="container">
+
+
+   <div class="carousel slide col-lg-12 col-md-12 col-sm-12 col-xs-12" data-ride="carousel">
+  <!-- Indicators -->
+ 
+
+  <!-- Wrapper for slides -->
+	  	<div class="carousel-inner" >
+		    <div class="item active">
+		      <div class="question-box" alt="0"></div>
+		      	<div class="container">
+		            <div class="carousel-caption">
+		    			<div class="panel panel-primary">
+		    				<div class="panel-heading">
+			    				<p>מה משמעות המילה  </p>
+			    				<p>{{question[0]}}</p>
+			    			</div>
+			    			<div class="panel-body">
+			    			<button type="button" class="btn btn-primary btn-lg btn-block" ng-disabled="isdisabled[0]" ng-repeat="o in option[0]" ng-click="isgood(o)">{{o}} <span class="badge pull-right">{{$index+1}}</span></button>
+			    			</div>
+			    			<div class="panel-footer">
+			    			<p class="{{message_style[0]}} text-white text-box" style="margin-top:30px">{{message[0]}}</p>
+			    			</div>
+		    			</div>
+		            </div>  
+		    	</div>
+		    </div>	
+		    <div class="item">
+		      	<div class="question-box" alt="1"></div>
+		      	<div class="carousel-caption">
+		       		<div>
+		       			<div class="text-box">
+		    				<p>מה משמעות המילה </p>
+		    				<p>{{question[1]}}</p>
+		    			</div>
+		    			<button type="button" class="btn btn-primary btn-lg btn-block" ng-disabled="isdisabled[1]" ng-repeat="o in option[1]" ng-click="isgood(o)">{{o}} <span class="badge pull-right">{{$index+1}}</span></button>
+		    			<p class="{{message_style[1]}} text-white text-box" style="margin-top:30px">{{message[1]}}</p>
+    				</div>
+		      	</div>
+		    </div>
+	  	</div>
+
+ 
+	</div>
+
+	<!--<button ng-click="next()">next</button>-->
+
+<!--
+	<div class="topspace">
+		<p class="bg-warning question btn-block">{{question}}</p>
+		<button type="button" class="btn btn-primary btn-lg btn-block" ng-repeat="o in option" ng-click="isgood(o)">{{o}}</button>
+
+	</div>
+
+	<button class="btn btn-lg btn-warrning topspace">Finish  <span class="glyphicon glyphicon-stop"></span></button>
+
+
+	<div class="{{alert.style}} topspace" role="alert">{{message}}</div>
+-->
+</div>

@@ -1,0 +1,17 @@
+
+
+<h1 class='{{langside}}'>{{info}}</h1>
+<p style="clear:both"></p>
+
+<div class="container">
+
+	<div class="row" >
+
+		<div id='{{$index}}' ng-click="selectchar($index)" class="{{clas}}" ng-repeat="char in chars">{{char}}</div>
+
+	</div>
+
+	<div class="row">
+	<div class="bg-green start-game" ng-click="start()" ><h1>{{startgame}}</h1></span></div>
+	</div>
+</div>

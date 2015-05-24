@@ -1,0 +1,23 @@
+      <div class="login">
+        <div class="login-screen">
+          <div class="login-icon">
+            <img src="images/login/icon.png" alt="Welcome to Mail App" />
+            <h4>Welcome to <small>Mail App</small></h4>
+          </div>
+
+          <div class="login-form">
+            <div class="form-group">
+              <input type="text" class="form-control login-field" value="" placeholder="Enter your Email" id="login-name" ng-model="email"/>
+              <label class="login-field-icon fui-user" for="login-name"></label>
+            </div>
+
+            <div class="form-group">
+              <input type="password" class="form-control login-field" value="" placeholder="Password" id="login-pass" ng-model="password"/>
+              <label class="login-field-icon fui-lock" for="login-pass"></label>
+            </div>
+
+            <button class="btn btn-primary btn-lg btn-block" ng-click="login()">Log in</button>
+            <a class="login-link" href="#">Lost your password?</a>
+          </div>
+        </div>
+      </div>

@@ -1,0 +1,29 @@
+<div class="container" style="direction:rtl">
+
+
+	<div class="{{message_style}} text-box">
+		<h4>מה משמעות המילה  </4>
+		<p><b>"{{question}}"</b></p>
+	</div>
+
+	<div type="button" class="btn btn-primary btn-lg btn-block question" ng-disabled="isdisabled" ng-repeat="o in option" ng-click="isgood(o)"><span class="badge pull-right">{{$index+1}}</span>{{o}}</div>
+
+	<button style="margin-top:20px" type="button" class="btn btn-info btn-lg btn-block" ng-click="sum()"> <span class="glyphicon glyphicon-stop"></span>  עצור שיעור </button>	
+	<!--<p class="{{message_style}} text-white text-box" style="margin-top:30px">{{message}}</p>-->
+
+
+	<!--<button ng-click="next()">next</button>-->
+
+<!--
+	<div class="topspace">
+		<p class="bg-warning question btn-block">{{question}}</p>
+		<button type="button" class="btn btn-primary btn-lg btn-block" ng-repeat="o in option" ng-click="isgood(o)">{{o}}</button>
+
+	</div>
+
+	<button class="btn btn-lg btn-warrning topspace">Finish  <span class="glyphicon glyphicon-stop"></span></button>
+
+
+	<div class="{{alert.style}} topspace" role="alert">{{message}}</div>
+-->
+</div>

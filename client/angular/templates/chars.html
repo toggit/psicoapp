@@ -1,0 +1,19 @@
+
+
+<div style="direction:rtl">
+	<h1>בחר אות או מספר אותיות</h1>
+	<p style="clear:both"></p>
+
+	<div class="container">
+
+		<div class="row" >
+
+			<div id='{{$index}}' ng-click="selectchar($index)" class="{{clas}}" ng-repeat="char in chars">{{char}}</div>
+
+		</div>
+
+		<div class="row">
+		<div class="bg-green start-game" ng-click="start()" ><h1>התחל משחק</h1></span></div>
+		</div>
+	</div>
+</div>
