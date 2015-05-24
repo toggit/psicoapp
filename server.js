@@ -70,7 +70,7 @@ app.use('/api', api);
 //*******
 
 
-var port = process.env.PORT || 80;
+var port = process.env.PORT || 5000;
 app.server = http.createServer(app);
 app.server.listen(port, function() {
     logger.info("NodeJs Web Server Started sccessfuly");
