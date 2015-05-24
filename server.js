@@ -1,4 +1,4 @@
-//****************** globals variables configuration ******************************
+//*********************** globals variables configuration **********************************
 
 // dev
 global.DB_HOST = 'ds027491.mongolab.com';
@@ -17,7 +17,7 @@ global.CONNECTION_STRING = 'mongodb://' + global.DB_HOST + ':' + global.DB_PORT 
 //global.DB_PASSWORD = '';
 //global.CONNECTION_STRING = 'mongodb://' + global.DB_HOST + ':' + global.DB_PORT + '/' + global.DB_NAME;
 
-//************************ require dependencies **********************************
+//******************************* require dependencies ************************************
 var express = require('express');
 var app = express();
 var Mongoose = require("mongoose");
@@ -27,7 +27,7 @@ var bodyParser = require('body-parser');
 var api = require('./server/routers/api');
 var static_resource = require('./server/routers/static');
 
-//****************** connect to db ******************************
+//********************************* connect to db ****************************************
 Mongoose.connect(global.CONNECTION_STRING, function(err) {
 
     if (err) throw err;
@@ -41,20 +41,38 @@ Mongoose.createConnection(global.CONNECTION_STRING, function (err, result) {
         console.log(result);
 });
 
-//***************** body parseer for req body ********************
+//******************************** body parseer for req body ******************************
 app.use(bodyParser.urlencoded({
     extended: true
 }));
 app.use(bodyParser.json());
 
+//************************************* server: web services ******************************
 
-app.set('port', (process.env.PORT || 5000));
-app.use(express.static(__dirname + '/public'));
-
-app.get('/', function(request, response) {
-  response.send('Hello World!');
+}app.use('/', function (req, res, next) {
+    next();
 });
 
-app.listen(app.get('port'), function() {
-  console.log('Node app is running on port', app.get('port'));
+//****************** User Authentication ******************************
+//app.use('/', sso);
+
+//****************** static resource *****************************
+app.use('/', static_resource);
+
+//****************** api restfull ********************************
+app.use('/api', api);
+
+//******************* default route ***************************
+//app.all("/*", function (req, res) {
+//    res.sendFile(__dirname + '/client/views/index.html');
+//});
+
+//*******
+
+
+var port = process.env.PORT || 80;
+app.server = http.createServer(app);
+app.server.listen(port, function() {
+    logger.info("NodeJs Web Server Started sccessfuly");
+    console.log('Server Is Running \n I\'m Listening... on port: ' + port);
 });
