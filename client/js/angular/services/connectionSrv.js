@@ -13,12 +13,12 @@ app.factory('connectionSrv',function($http,$q){
         },
         get: function(data){
             //var p=
-            var mongo = 'http://192.168.1.150:5000/api/words';
+            //var mongo = 'http://192.168.1.150:5000/api/words';
             //var good = 'http://192.168.1.150:8089/psico/words/123';
             //var server = 'http://psicoproject.herokuapp.com/psico/words/123';
-            //var server = 'http://psicoapp.herokuapp.com/api/words';
+            var server = 'http://psicoapp.herokuapp.com/api/words';
                 var deffered = $q.defer();
-                $http.post(mongo,data).
+                $http.post(server,data).
                     success(function(data){
                         deffered.resolve(data);
                         //return data;
