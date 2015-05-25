@@ -59,7 +59,9 @@ function trim1 (str) {
 
 module.exports.get10Words = function (req, res) {
         // write your code here
-    WordModel.find({lang:{$in:[req.body.lang || 'he']},char:{$in:[req.body.char || 'א']}},{_id:0,_v:0,/* word: 0, description: 0 ,*/lang: 0,char: 0}).limit(500).exec(function(err,result){
+    var x =5;
+    x=8/2;
+    WordModel.find({lang:{$in:[req.body.lang || 'he']},char:{$in: req.body.char || ['א']}},{_id:0,_v:0,/* word: 0, description: 0 ,*/lang: 0,char: 0}).limit(500).exec(function(err,result){
         if(!err) {
 
             var words_arr = [];
