@@ -1,0 +1,1 @@
+mongoimport --host ds027491.mongolab.com --port 27491 --username togadmin --password 1q2w3e4r --collection words --db togblog --file 6.json
