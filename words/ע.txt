@@ -1,0 +1,166 @@
+{"word":"עב ","description":" ענן, נשיא.","lang":"he","char":"ע"}
+{"word":"עב בשר ","description":" שמן, כבד גוף.","lang":"he","char":"ע"}
+{"word":"עבדקן ","description":" בעל זקן עבה.","lang":"he","char":"ע"}
+{"word":"עבודה זרה ","description":" עבודת אלילים.","lang":"he","char":"ע"}
+{"word":"עבודה סיזיפית ","description":" עבודה קשה שאין בה תועלת.","lang":"he","char":"ע"}
+{"word":"עבוט ","description":" ערבות, משכון.","lang":"he","char":"ע"}
+{"word":"עבורה של עיר ","description":" שכונות בקצה העיר, פרברי העיר, פאתי העיר.","lang":"he","char":"ע"}
+{"word":"עבות ","description":" חבל עבה, כבל.","lang":"he","char":"ע"}
+{"word":"עבות ","description":" צפוף.","lang":"he","char":"ע"}
+{"word":"עבותות ","description":" חבלים עבים, כבלים.","lang":"he","char":"ע"}
+{"word":"עביט ","description":" כלי קיבול לנוזלים.","lang":"he","char":"ע"}
+{"word":"עבר זמנו בטל קורבנו ","description":" אינו חשוב עוד.","lang":"he","char":"ע"}
+{"word":"עברה ","description":" זעם, כעס, חימה, חרי אף.","lang":"he","char":"ע"}
+{"word":"עברי פי פחת ","description":" מקום מסוכן.","lang":"he","char":"ע"}
+{"word":"עג ","description":" סבב, חג.","lang":"he","char":"ע"}
+{"word":"עגה ","description":" סלנג, דיאלקט, ניב.","lang":"he","char":"ע"}
+{"word":"עגום ","description":" עצוב, נוגה, מלנכולי, מדוכא.","lang":"he","char":"ע"}
+{"word":"עגונה ","description":" אישה שבעלה נעלם ולא נתן לה גט.","lang":"he","char":"ע"}
+{"word":"עגורן ","description":" מכשיר המשמש להרמת משאות כבדים, מעין מנוף.","lang":"he","char":"ע"}
+{"word":"עד בוש ","description":" זמן רב.","lang":"he","char":"ע"}
+{"word":"עד זרא ","description":" עד כדי גועל.","lang":"he","char":"ע"}
+{"word":"עד חורמה ","description":" עד הקץ.","lang":"he","char":"ע"}
+{"word":"עדי ","description":" תכשיט, משכית.","lang":"he","char":"ע"}
+{"word":"עדנה ","description":" רכות.","lang":"he","char":"ע"}
+{"word":"עוד היד נטויה ","description":" עדיין נמשך.","lang":"he","char":"ע"}
+{"word":"עוד חזון למועד ","description":" עדיין לא הגיעה השעה.","lang":"he","char":"ע"}
+{"word":"עוול ","description":" חוסר צדק, הפרת חוק, עוולה.","lang":"he","char":"ע"}
+{"word":"עוון ","description":" פשע, חטא, עברה.","lang":"he","char":"ע"}
+{"word":"עוטה ","description":" לובש.","lang":"he","char":"ע"}
+{"word":"עוין ","description":" שונא.","lang":"he","char":"ע"}
+{"word":"עוכר ","description":" 1. מזהם; 2. מחבל, משחית.","lang":"he","char":"ע"}
+{"word":"עול ","description":" 1. כלי רתמה לבקר; 2. נטל, מעמסה.","lang":"he","char":"ע"}
+{"word":"עול ימים ","description":" צעיר, זאטוט, דרדק.","lang":"he","char":"ע"}
+{"word":"עולה ","description":" קורבן זבח.","lang":"he","char":"ע"}
+{"word":"עולה בקנה אחד ","description":" מתאים, מסתדר.","lang":"he","char":"ע"}
+{"word":"עולל","description":"תינוק.","lang":"he","char":"ע"}
+{"word":"עוללה ","description":" פרי שנשאר על העץ לאחר הבציר או המסיק.","lang":"he","char":"ע"}
+{"word":"עולם כמנהגו נוהג ","description":" הכל כרגיל.","lang":"he","char":"ע"}
+{"word":"עומד אחר כותלנו ","description":" יגיע בקרוב.","lang":"he","char":"ע"}
+{"word":"עומד בדיבורו ","description":" מקיים את הבטחתו.","lang":"he","char":"ע"}
+{"word":"עומד במריו ","description":" אינו נכנע.","lang":"he","char":"ע"}
+{"word":"עומד בעינו ","description":" נשאר כפי שהוא.","lang":"he","char":"ע"}
+{"word":"עומד בפני שוקת שבורה ","description":" המציאות טפחה על פניו.","lang":"he","char":"ע"}
+{"word":"עומד בפתח ","description":" שזמנו קרב.","lang":"he","char":"ע"}
+{"word":"עומד על תילו ","description":" שאינו הרוס.","lang":"he","char":"ע"}
+{"word":"עומר ","description":" אגודת שיבולים, עמיר, אלומה.","lang":"he","char":"ע"}
+{"word":"עופל ","description":" מקום גבוה ומבוצר, מבצר.","lang":"he","char":"ע"}
+{"word":"עופרה ","description":" איילה צעירה.","lang":"he","char":"ע"}
+{"word":"עוצר ","description":" שליט זמני.","lang":"he","char":"ע"}
+{"word":"עוקר הרים ","description":" אדם חכם וחריף.","lang":"he","char":"ע"}
+{"word":"עורבא פרח ","description":" דברים חסרי שחר, דברי הבאי והבל, קש וגבבה.","lang":"he","char":"ע"}
+{"word":"עז מצח ","description":" חצוף, עז פנים, גס רוח.","lang":"he","char":"ע"}
+{"word":"עזב אותו לאנחות ","description":" השאיר אותו לבד בעת צרה.","lang":"he","char":"ע"}
+{"word":"עזבון ","description":" ירושה.","lang":"he","char":"ע"}
+{"word":"עזובה ","description":" מקום מוזנח.","lang":"he","char":"ע"}
+{"word":"עזוז ","description":" עוז, כוח, גבורה, תעצומה, חוסן.","lang":"he","char":"ע"}
+{"word":"עזקה","description":"שדה שנעדר כדי להכשירו לנטיעה.","lang":"he","char":"ע"}
+{"word":"עזר כנגדו ","description":" אישה, בת זוג.","lang":"he","char":"ע"}
+{"word":"עזרה ","description":" מקום מגודר, קרפיף.","lang":"he","char":"ע"}
+{"word":"עט ","description":" הסתער.","lang":"he","char":"ע"}
+{"word":"עטה שק ואפר","description":"התאבל.","lang":"he","char":"ע"}
+{"word":"עטוי ","description":" מכוסה.","lang":"he","char":"ע"}
+{"word":"עטי ","description":" עצה רעה, עצת אחיתופל.","lang":"he","char":"ע"}
+{"word":"עטרה ","description":" כתר, נזר.","lang":"he","char":"ע"}
+{"word":"עי ","description":" מקום הרוס, תל חורבות.","lang":"he","char":"ע"}
+{"word":"עיבוי ","description":" הפיכת דבר לעבה וסמיך.","lang":"he","char":"ע"}
+{"word":"עידית ","description":" 1. אדמה פורייה; 2. סחורה משובחת.","lang":"he","char":"ע"}
+{"word":"עידן ועידנים ","description":" זמן רב.","lang":"he","char":"ע"}
+{"word":"עידנא דריתחא ","description":" שעת כעס.","lang":"he","char":"ע"}
+{"word":"עיור ","description":" הפיכה לעיר, אורבניזציה.","lang":"he","char":"ע"}
+{"word":"עילאי","description":"עליון, נעלה, נאצל.","lang":"he","char":"ע"}
+{"word":"עילג ","description":" מגמגם, כבד פה, כבד לשון.","lang":"he","char":"ע"}
+{"word":"עילה ","description":" סיבה, תרוץ, תואנה, אמתלה.","lang":"he","char":"ע"}
+{"word":"עילית ","description":" הטובים והמובחרים ביותר.","lang":"he","char":"ע"}
+{"word":"עין הסערה ","description":" במרכז העניינים.","lang":"he","char":"ע"}
+{"word":"עין טובה ","description":" נדיבות, רוחב לב, עין יפה.","lang":"he","char":"ע"}
+{"word":"עין לא שזפתהו ","description":" איש לא רעה אותו.","lang":"he","char":"ע"}
+{"word":"עיניו טחו מראות ","description":" סירב לראות את הדברים.","lang":"he","char":"ע"}
+{"word":"עיניים טרוטות ","description":" עיניים חלשות ורכות.","lang":"he","char":"ע"}
+{"word":"עיניים עששות ","description":" עיניים חלושות.","lang":"he","char":"ע"}
+{"word":"עיקול ","description":" עיקום, פיתול.","lang":"he","char":"ע"}
+{"word":"עיר ","description":" בן החמור.","lang":"he","char":"ע"}
+{"word":"עיר פרזות ","description":" עיר ללא חומה או צבא.","lang":"he","char":"ע"}
+{"word":"עיר רפאים ","description":" מקום נטוש.","lang":"he","char":"ע"}
+{"word":"עיר שדה ","description":" עיר קטנה בסמיכות לעיר גדולה.","lang":"he","char":"ע"}
+{"word":"עישוב ","description":" עקירת עשבים שוטים.","lang":"he","char":"ע"}
+{"word":"עכבה ","description":" מניעה, עיכוב, מעצור.","lang":"he","char":"ע"}
+{"word":"עכו”ם ","description":" ראשי תיבות של עובד אלילים ומזלות.","lang":"he","char":"ע"}
+{"word":"עכור ","description":" בלתי צלול, מלוכלך, דלוח, קודר.","lang":"he","char":"ע"}
+{"word":"על אחת כמה וכמה ","description":" ודאי וודאי, אדרבא, לא כל שכן.","lang":"he","char":"ע"}
+{"word":"על אפו ועל חמתו ","description":" נגד רצונו.","lang":"he","char":"ע"}
+{"word":"על בוריו ","description":" כראוי, כהלכה, בשלמותו.","lang":"he","char":"ע"}
+{"word":"על כורחו ","description":" נגד רצונו.","lang":"he","char":"ע"}
+{"word":"על כרעי תרנגולת ","description":" לא יציב.","lang":"he","char":"ע"}
+{"word":"על כרעיו ועל קרבו ","description":" בשלמותו, כולו.","lang":"he","char":"ע"}
+{"word":"על מי מנוחות ","description":" בשלווה, בניחותא.","lang":"he","char":"ע"}
+{"word":"על נקלה ","description":" בקלות, בלא קושי.","lang":"he","char":"ע"}
+{"word":"על ערש דווי ","description":" גוסס.","lang":"he","char":"ע"}
+{"word":"על פיו ישק דבר ","description":" אין לסור מדבריו.","lang":"he","char":"ע"}
+{"word":"על פניו ","description":" לכאורה, במבט ראשון.","lang":"he","char":"ע"}
+{"word":"על קצה המזלג ","description":" כמות קטנה.","lang":"he","char":"ע"}
+{"word":"על קרן הצבי ","description":" מתוך סיכון רב.","lang":"he","char":"ע"}
+{"word":"עלה בקנה אחד ","description":" התאים.","lang":"he","char":"ע"}
+{"word":"עלה בתוהו ","description":" נכשל.","lang":"he","char":"ע"}
+{"word":"עלה על יצועו ","description":" שכב במיטתו.","lang":"he","char":"ע"}
+{"word":"עלה על שרטון ","description":" נתקל במכשולים.","lang":"he","char":"ע"}
+{"word":"עלה תאנה ","description":" דבר המשמש כסות או הסוואה למשהו.","lang":"he","char":"ע"}
+{"word":"עלווה ","description":" כלל העלים המכסים עץ.","lang":"he","char":"ע"}
+{"word":"עלום ","description":" נסתר, נעלם, צפון, גנוז.","lang":"he","char":"ע"}
+{"word":"עלומים ","description":" נעורים, תשחורת.","lang":"he","char":"ע"}
+{"word":"עלטה ","description":" חושך, אפלה.","lang":"he","char":"ע"}
+{"word":"עלי ","description":" מוט קצר המשמש לכתישה במכתש.","lang":"he","char":"ע"}
+{"word":"עליצות ","description":" שמחה, ששון, חדווה.","lang":"he","char":"ע"}
+{"word":"עלם ","description":" בחור צעיר.","lang":"he","char":"ע"}
+{"word":"עלתה קרנו ","description":" זכה להערכה.","lang":"he","char":"ע"}
+{"word":"עם הארץ ","description":" חסר השכלה, הדיוט, בור.","lang":"he","char":"ע"}
+{"word":"עמד בפרץ ","description":" הגן, מנע אסון.","lang":"he","char":"ע"}
+{"word":"עמד בשער ","description":" הגן.","lang":"he","char":"ע"}
+{"word":"עמד לו כוחו ","description":" כוחו הספיק לו.","lang":"he","char":"ע"}
+{"word":"עמד לימינו ","description":" עזר לו.","lang":"he","char":"ע"}
+{"word":"עמד מנגד ","description":" לא בא לעזרה.","lang":"he","char":"ע"}
+{"word":"עמד על דם רעהו ","description":" לא חש לעזרת חברו.","lang":"he","char":"ע"}
+{"word":"עמד על דעתו ","description":" התעקש, עמד על מידותיו.","lang":"he","char":"ע"}
+{"word":"עמד על טיבו ","description":" תהה על קנקנו, בחן אותו.","lang":"he","char":"ע"}
+{"word":"עמד על טעותו ","description":" הבין שטעה.","lang":"he","char":"ע"}
+{"word":"עמד על מידותיו ","description":" התעקש, עמד על דעתו.","lang":"he","char":"ע"}
+{"word":"עמדה לו השעה ","description":" הצליח.","lang":"he","char":"ע"}
+{"word":"עמוד השחר ","description":" אור ראשון, דמדומי בוקר.","lang":"he","char":"ע"}
+{"word":"עמוד התווך ","description":" 1. עמוד מרכזי בבניין; 2. אדם או דבר מרכזי, המהווה בסיס לכל.","lang":"he","char":"ע"}
+{"word":"עמום ","description":" כהה, אטום, חשוך, קהה.","lang":"he","char":"ע"}
+{"word":"עמותה ","description":" התאגדות שלא למטרת רווח.","lang":"he","char":"ע"}
+{"word":"עמימות ","description":" אי בהירות.","lang":"he","char":"ע"}
+{"word":"עמיר ","description":" צרור שיבולים.","lang":"he","char":"ע"}
+{"word":"עמית ","description":" חבר לעבודה, רע, קולגה.","lang":"he","char":"ע"}
+{"word":"עמק הבכא ","description":" מקום של ייסורים.","lang":"he","char":"ע"}
+{"word":"עמק השווה ","description":" פשרה, הסכם.","lang":"he","char":"ע"}
+{"word":"ענבל ","description":" לשון הפעמון.","lang":"he","char":"ע"}
+{"word":"ענבר ","description":" 1. צהוב בהיר; 2. שרף מאובן.","lang":"he","char":"ע"}
+{"word":"ענו ","description":" צנוע, שפל רוח.","lang":"he","char":"ע"}
+{"word":"ענות ","description":" סבל, ייסורים.","lang":"he","char":"ע"}
+{"word":"עני מרוד ","description":" דל, דלפון, אביון, רש.","lang":"he","char":"ע"}
+{"word":"עניו ","description":" צנוע, שפל רוח, נחבא אל הכלים.","lang":"he","char":"ע"}
+{"word":"ענק ","description":" תכשיט לצוואר, רביד.","lang":"he","char":"ע"}
+{"word":"עסיס ","description":" מיץ פירות, תירוש, נקטר.","lang":"he","char":"ע"}
+{"word":"עפאים ","description":" ענפים, בדים, זרדים.","lang":"he","char":"ע"}
+{"word":"עפרא דארעא ","description":" עפר הארץ, דבר חסר ערך, שלג דאשתקד.","lang":"he","char":"ע"}
+{"word":"עפרה ","description":" מחצב המכיל מתכת.","lang":"he","char":"ע"}
+{"word":"עצר ","description":" שלטון, ממשל, שררה.","lang":"he","char":"ע"}
+{"word":"עצת אחיתופל ","description":" עצה רעה של מישהו המתחזה לידיד.","lang":"he","char":"ע"}
+{"word":"עקב אכילס ","description":" נקודת תורפה, בטן רכה.","lang":"he","char":"ע"}
+{"word":"עקב בצד אגודל ","description":" לאט.","lang":"he","char":"ע"}
+{"word":"עקה ","description":" מצוקה.","lang":"he","char":"ע"}
+{"word":"עקוב ","description":" 1. עקום; 2. מלא עקבות, מטונף.","lang":"he","char":"ע"}
+{"word":"עקוב מדם ","description":" רווי בדם.","lang":"he","char":"ע"}
+{"word":"עקוד ","description":" קשור, כפות.","lang":"he","char":"ע"}
+{"word":"עקלקל ","description":" מתפתל.","lang":"he","char":"ע"}
+{"word":"עקלתון ","description":" מתפתל, מעוקל.","lang":"he","char":"ע"}
+{"word":"עקר ","description":" חסר תועלת.","lang":"he","char":"ע"}
+{"word":"ערב ","description":" נעים.","lang":"he","char":"ע"}
+{"word":"ערב רב ","description":" 1. קהל רב, המון; 2. תערובת.","lang":"he","char":"ע"}
+{"word":"ערגה ","description":" כמיהה, געגועים, כיסופים.","lang":"he","char":"ע"}
+{"word":"ערדליים ","description":" נעלי גומי שנועלים על הנעליים בימי גשם.","lang":"he","char":"ע"}
+{"word":"ערובה ","description":" דבר שיש בו כדי להבטיח ביצוע.","lang":"he","char":"ע"}
+{"word":"ערוד ","description":" חמור הבר.","lang":"he","char":"ע"}
+{"word":"ערוי ","description":" העברה מכלי אל כלי.","lang":"he","char":"ע"}
+{"word":"עשה שמות ","description":" הרס, החריב, חרג מהכללים באופן קיצוני.","lang":"he","char":"ע"}

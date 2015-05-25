@@ -1,0 +1,77 @@
+{"word":"צבה","description":"התנפח, תפח.","lang":"he","char":"צ"}
+{"word":"צביון ","description":" צורה.","lang":"he","char":"צ"}
+{"word":"צביר ","description":" קבוצת חפצים.","lang":"he","char":"צ"}
+{"word":"צבר ","description":" ערימה, גל, תל, חשרה.","lang":"he","char":"צ"}
+{"word":"צג ","description":" מסך.","lang":"he","char":"צ"}
+{"word":"צד את אוזנו ","description":" סיקרן אותו בדברים שהשמיע.","lang":"he","char":"צ"}
+{"word":"צדודית ","description":" פרופיל.","lang":"he","char":"צ"}
+{"word":"צדה ","description":" ארב, התנכל, התנקש.","lang":"he","char":"צ"}
+{"word":"צדיה ","description":" כוונה רעה, זדון, מזימה.","lang":"he","char":"צ"}
+{"word":"צדעים ","description":" רקות, צידי הגולגולת.","lang":"he","char":"צ"}
+{"word":"צדקנות ","description":" התחסדות, צדיקות לכאורה.","lang":"he","char":"צ"}
+{"word":"צהל ","description":" 1. סוס שהשמיע קול, צנף; 2. השמיע קול שמחה.","lang":"he","char":"צ"}
+{"word":"צוארון כחול ","description":" שכבה חברתית העוסקת בעבודות כפיים.","lang":"he","char":"צ"}
+{"word":"צוארון לבן ","description":" שכבה חברתית העוסקת במנהל.","lang":"he","char":"צ"}
+{"word":"צוהר ","description":" חלון, אשנב, חרך.","lang":"he","char":"צ"}
+{"word":"צווחה ","description":" צעקה, זעקה, צריחה.","lang":"he","char":"צ"}
+{"word":"צוק העתים ","description":" שעת חירום, ימים טרופים.","lang":"he","char":"צ"}
+{"word":"צור ","description":" סלע גדול, צוק.","lang":"he","char":"צ"}
+{"word":"צור מחצבתו ","description":" מקורו, מולדתו.","lang":"he","char":"צ"}
+{"word":"צורף ","description":" מעצב ויוצר תכשיטי זהב וכסף.","lang":"he","char":"צ"}
+{"word":"צורר ","description":" שונא, אויב, צר, קם, רודף.","lang":"he","char":"צ"}
+{"word":"צח","description":"נקי, טהור, זך, בהיר.","lang":"he","char":"צ"}
+{"word":"צחור ","description":" לבן.","lang":"he","char":"צ"}
+{"word":"צחות לשון ","description":" שימוש בשפה נאה.","lang":"he","char":"צ"}
+{"word":"צחיח ","description":" יבש, חרב.","lang":"he","char":"צ"}
+{"word":"צחנה ","description":" סירחון, באשה.","lang":"he","char":"צ"}
+{"word":"צידד ","description":" 1. הפנה לצד; 2. תמך.","lang":"he","char":"צ"}
+{"word":"ציה ","description":" מדבר, ישימון, שממה, בתה.","lang":"he","char":"צ"}
+{"word":"צייקן ","description":" קמצן.","lang":"he","char":"צ"}
+{"word":"צילינדר ","description":" מגבעת גבוהה.","lang":"he","char":"צ"}
+{"word":"צינה ","description":" 1. קור; 2. מגן, מחסה.","lang":"he","char":"צ"}
+{"word":"צינוק ","description":" בית כלא, מחבוש.","lang":"he","char":"צ"}
+{"word":"ציני ","description":" לועג לדעות המקובלות, מזלזל.","lang":"he","char":"צ"}
+{"word":"ציניקן ","description":" אדם לא רגיש.","lang":"he","char":"צ"}
+{"word":"ציפה ","description":" בשר הפרי.","lang":"he","char":"צ"}
+{"word":"ציפורן ","description":" חרט חד לכתיבה וחקיקה.","lang":"he","char":"צ"}
+{"word":"ציץ ","description":" עלי הכותרת בפרח.","lang":"he","char":"צ"}
+{"word":"ציצית ","description":" קווצת חוטים, גדיל.","lang":"he","char":"צ"}
+{"word":"ציקלון ","description":" תרמיל, ילקוט, שק, אמתחת.","lang":"he","char":"צ"}
+{"word":"ציקלופים ","description":" ענקים אגדיים.","lang":"he","char":"צ"}
+{"word":"ציר ","description":" 1. שליח, רץ; 2. כאבי לידה, חבל; 3. רוטב.","lang":"he","char":"צ"}
+{"word":"צלח ","description":" חצה, עבר, ביקע.","lang":"he","char":"צ"}
+{"word":"צלח המעשה בידיו ","description":" הצליח לו.","lang":"he","char":"צ"}
+{"word":"צליין ","description":" עולה רגל המבקר במקומות הקדושים.","lang":"he","char":"צ"}
+{"word":"צלם ","description":" דמות, צורה.","lang":"he","char":"צ"}
+{"word":"צלמוות ","description":" חושך, אפלה, אופל, צלמון.","lang":"he","char":"צ"}
+{"word":"צלצל ","description":" כידון מחובר לחבל שבו צדים דגים גדולים.","lang":"he","char":"צ"}
+{"word":"צמית ","description":" איכר משועבד, אריס, וסל.","lang":"he","char":"צ"}
+{"word":"צמצם ","description":" מתקן במכשירים אופטיים לוויסות קרני אור.","lang":"he","char":"צ"}
+{"word":"צמרת","description":"ראש העץ, אמיר.","lang":"he","char":"צ"}
+{"word":"צנובר ","description":" איצטרובל.","lang":"he","char":"צ"}
+{"word":"צנום ","description":" רזה, כחוש, דק גו.","lang":"he","char":"צ"}
+{"word":"צנוף ","description":" עטוף, כרוך, מכורבל, לוט.","lang":"he","char":"צ"}
+{"word":"צנטריפוגלי ","description":" מן המרכז החוצה.","lang":"he","char":"צ"}
+{"word":"צנין ","description":" קוץ, חוח, דרדר, חרול.","lang":"he","char":"צ"}
+{"word":"צניפה ","description":" צהלת הסוס.","lang":"he","char":"צ"}
+{"word":"צפוד ","description":" יבש, מצומק, מקומט, שדוף.","lang":"he","char":"צ"}
+{"word":"צפון ","description":" חבוי, מוסתר, טמון, נצור.","lang":"he","char":"צ"}
+{"word":"צפחה ","description":" מחצב מורכב מחומר ומצורן, המתפצל לשכבות.","lang":"he","char":"צ"}
+{"word":"צפחת ","description":" מימיה.","lang":"he","char":"צ"}
+{"word":"צפיחית ","description":" עוגה, אפיפית, רקיק, תופין.","lang":"he","char":"צ"}
+{"word":"צפיר ","description":" תיש, שעיר.","lang":"he","char":"צ"}
+{"word":"צפנת ","description":" סוד, רז.","lang":"he","char":"צ"}
+{"word":"צפרא ","description":" בוקר.","lang":"he","char":"צ"}
+{"word":"צפריר ","description":" רוח בוקר נעימה.","lang":"he","char":"צ"}
+{"word":"צר ","description":" אויב, שונא, קם, רודף, צורר.","lang":"he","char":"צ"}
+{"word":"צר אופקים ","description":" מוגבל בראיית עולמו.","lang":"he","char":"צ"}
+{"word":"צרדה ","description":" האצבע האמצעית ביד.","lang":"he","char":"צ"}
+{"word":"צרוב ","description":" שרוף, נכווה, שזוף.","lang":"he","char":"צ"}
+{"word":"צרוף ","description":" טהור, מזוקק.","lang":"he","char":"צ"}
+{"word":"צרור ","description":" חבילה, אגודה, אגד.","lang":"he","char":"צ"}
+{"word":"צרות עין ","description":" קינאה, טינה.","lang":"he","char":"צ"}
+{"word":"צ’רטר ","description":" 1. כתב זכויות, הצהרה; 2. טיסת שכר.","lang":"he","char":"צ"}
+{"word":"צרי ","description":" 1. שרף עץ ששימש לריפוי; 2. תרופה, גהה, מזור.","lang":"he","char":"צ"}
+{"word":"צריח ","description":" מגדל.","lang":"he","char":"צ"}
+{"word":"צרימה ","description":" אי התאמה בקולות, דיסוננס.","lang":"he","char":"צ"}
+{"word":"צרר ","description":" ארז, קשר, כרך לחבילה.","lang":"he","char":"צ"}

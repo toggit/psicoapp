@@ -1,0 +1,116 @@
+{"word":"ראה את הנולד ","description":" צפה את העתיד.","lang":"he","char":"ר"}
+{"word":"ראה צל הרים כהרים ","description":" לא ראה דברים כפי שהם.","lang":"he","char":"ר"}
+{"word":"ראוותן ","description":" אוהב להראות את עצמו ולהרשים אחרים.","lang":"he","char":"ר"}
+{"word":"ראיה ","description":" הוכחה, עדות.","lang":"he","char":"ר"}
+{"word":"ראש לשועלים ","description":" ראשון בין חלשים.","lang":"he","char":"ר"}
+{"word":"ראשית חכמה ","description":" ראשית כל, כתנאי ראשוני.","lang":"he","char":"ר"}
+{"word":"רבב ","description":" 1. כתם שמן; 2. פגם; 3. פגם מוסרי.","lang":"he","char":"ר"}
+{"word":"רבבה ","description":" עשרת אלפים, ריבוא.","lang":"he","char":"ר"}
+{"word":"רבותא ","description":" דבר שיש בו חידוש, יתרון.","lang":"he","char":"ר"}
+{"word":"רביב ","description":" גשם, מטר.","lang":"he","char":"ר"}
+{"word":"רביד ","description":" תכשיט לצוואר, ענק.","lang":"he","char":"ר"}
+{"word":"רביכה ","description":" קמח מעורבב בשמן.","lang":"he","char":"ר"}
+{"word":"רבץ לפתחו ","description":" ארב לו.","lang":"he","char":"ר"}
+{"word":"רברסבילי ","description":" הפיך.","lang":"he","char":"ר"}
+{"word":"רבתי ","description":" גדולה, מורחבת.","lang":"he","char":"ר"}
+{"word":"רגב ","description":" גוש עפר.","lang":"he","char":"ר"}
+{"word":"רגיונלי ","description":" אזורי.","lang":"he","char":"ר"}
+{"word":"רגל ","description":" פעם (שלושה רגלים כלומר שלוש פעמים).","lang":"he","char":"ר"}
+{"word":"רגם ","description":" זרק אבנים, סקל.","lang":"he","char":"ר"}
+{"word":"רגן ","description":" התלונן, רטן.","lang":"he","char":"ר"}
+{"word":"רגרסיה ","description":" נסיגה לאחור.","lang":"he","char":"ר"}
+{"word":"רדוד ","description":" לא עמוק.","lang":"he","char":"ר"}
+{"word":"רדוקציה ","description":" הפחתה, צמצום.","lang":"he","char":"ר"}
+{"word":"רדיד ","description":" צעיף, מטפחת.","lang":"he","char":"ר"}
+{"word":"רדייה ","description":" הוצאה (לרוב דבש מכוורת).","lang":"he","char":"ר"}
+{"word":"רדיקלי ","description":" קיצוני.","lang":"he","char":"ר"}
+{"word":"רהב ","description":" גאווה, יוהרה, שחץ, התנשאות.","lang":"he","char":"ר"}
+{"word":"רהוט ","description":" שוטף בדיבור, שגור.","lang":"he","char":"ר"}
+{"word":"רהוי ","description":" הססן, פחדן, חיישן, רך לב.","lang":"he","char":"ר"}
+{"word":"רובד ","description":" שכבה, נדבך, סובסטרט.","lang":"he","char":"ר"}
+{"word":"רובץ ","description":" שוכן.","lang":"he","char":"ר"}
+{"word":"רודן ","description":" שליט יחיד, עריץ, טירן.","lang":"he","char":"ר"}
+{"word":"רווה נחת ","description":" שמח מאוד.","lang":"he","char":"ר"}
+{"word":"רווח ","description":" נפוץ, מצוי.","lang":"he","char":"ר"}
+{"word":"רוח נכאים ","description":" בעצב.","lang":"he","char":"ר"}
+{"word":"רוח עוועים ","description":" טירוף, שיגעון.","lang":"he","char":"ר"}
+{"word":"רוח קדים ","description":" רוח חמה.","lang":"he","char":"ר"}
+{"word":"רוחב יד ","description":" נדיבות, רוחב לב.","lang":"he","char":"ר"}
+{"word":"רום ","description":" גובה.","lang":"he","char":"ר"}
+{"word":"רומח ","description":" חנית, כידון.","lang":"he","char":"ר"}
+{"word":"רועץ ","description":" מכשול, תקלה, פוקה.","lang":"he","char":"ר"}
+{"word":"רופס ","description":" רך, חלוש, רופף.","lang":"he","char":"ר"}
+{"word":"רושף ","description":" לוהט, יוקד, מתיז ניצוצות.","lang":"he","char":"ר"}
+{"word":"רז ","description":" סוד, תעלומה, צפנת.","lang":"he","char":"ר"}
+{"word":"רזוננס ","description":" תהודה.","lang":"he","char":"ר"}
+{"word":"רחב גרם ","description":" עב בשר, עבה, שמן.","lang":"he","char":"ר"}
+{"word":"רחל ","description":" כבשה בוגרת.","lang":"he","char":"ר"}
+{"word":"רחמנא ליצלן ","description":" יצילנו האל.","lang":"he","char":"ר"}
+{"word":"רחץ בנקיון כפיו ","description":" התנער מאחריות.","lang":"he","char":"ר"}
+{"word":"רחש ","description":" 1. מחשבה, הרהור; 2. רשרוש.","lang":"he","char":"ר"}
+{"word":"רחשי לב ","description":" הרהורים, רצונות ורגשות כמוסים.","lang":"he","char":"ר"}
+{"word":"רטוריקה ","description":" תורת הנאום.","lang":"he","char":"ר"}
+{"word":"רטרוספקטיבה ","description":" הסתכלות לעבר.","lang":"he","char":"ר"}
+{"word":"ריאלי ","description":" מציאותי, ממשי, מוחשי, מעשי.","lang":"he","char":"ר"}
+{"word":"ריבב ","description":" ליכלך.","lang":"he","char":"ר"}
+{"word":"ריבה ","description":" נערה, עלמה.","lang":"he","char":"ר"}
+{"word":"ריבוא ","description":" עשרת אלפים, רבבה.","lang":"he","char":"ר"}
+{"word":"ריבוני ","description":" עצמאי, אוטונומי, סוברני.","lang":"he","char":"ר"}
+{"word":"ריבית קצוצה ","description":" ריבית מופרזת.","lang":"he","char":"ר"}
+{"word":"רידוד ","description":" השטחה, השטחת בצק (ראה מערוך).","lang":"he","char":"ר"}
+{"word":"ריחיים בצווארו ","description":" נתון תחת עול.","lang":"he","char":"ר"}
+{"word":"ריטואל ","description":" טקס, פולחן.","lang":"he","char":"ר"}
+{"word":"ריטש ","description":" קרע לגזרים, שיסף, ביתר.","lang":"he","char":"ר"}
+{"word":"רימה ","description":" שלב ראשוני בהתפתחות חרקים וזבובים.","lang":"he","char":"ר"}
+{"word":"רינן ","description":" 1. שר, זימר; 2. הוציא דיבה.","lang":"he","char":"ר"}
+{"word":"ריף ","description":" סלע בים, שונית.","lang":"he","char":"ר"}
+{"word":"ריצה ","description":" פייס.","lang":"he","char":"ר"}
+{"word":"ריצוד ","description":" תנועות מהירות ומקריות לכל עבר.","lang":"he","char":"ר"}
+{"word":"ריק ","description":" ואקום.","lang":"he","char":"ר"}
+{"word":"ריקא ","description":" פוחז.","lang":"he","char":"ר"}
+{"word":"ריקוע ","description":" רידוד, הפיכה לשטוח.","lang":"he","char":"ר"}
+{"word":"רישא ","description":" החלק הראשון.","lang":"he","char":"ר"}
+{"word":"רך לב ","description":" פחדן, מוג לב, חיישן, רהוי.","lang":"he","char":"ר"}
+{"word":"רכב ","description":" האבן העליונה בריחיים.","lang":"he","char":"ר"}
+{"word":"רכיב ","description":" חלק, מרכיב.","lang":"he","char":"ר"}
+{"word":"רכיכה ","description":" בעל חיים חסר חוליות.","lang":"he","char":"ר"}
+{"word":"רכינה ","description":" התכופפות, גהירה, גחינה.","lang":"he","char":"ר"}
+{"word":"רכס ","description":" כיפתר, כיבן.","lang":"he","char":"ר"}
+{"word":"רם דרג ","description":" רם מעלה, חשוב, נכבד.","lang":"he","char":"ר"}
+{"word":"רמה קרנו ","description":" זכה להערכה ולכבוד.","lang":"he","char":"ר"}
+{"word":"רמץ ","description":" אפר חם, שיירי גחלים.","lang":"he","char":"ר"}
+{"word":"רמש ","description":" שם כולל לחרקים וזוחלים.","lang":"he","char":"ר"}
+{"word":"רנדומלי","description":"אקראי, שרירותי.","lang":"he","char":"ר"}
+{"word":"רנטבילי ","description":" רווחי, משתלם.","lang":"he","char":"ר"}
+{"word":"רסיטל ","description":" קונצרט של אמן אחד.","lang":"he","char":"ר"}
+{"word":"רע ","description":" חבר, ידיד, עמית.","lang":"he","char":"ר"}
+{"word":"רעבתן ","description":" זללן, גרגרן.","lang":"he","char":"ר"}
+{"word":"רעה בשדות זרים ","description":" פנה לתרבות שונה או לאמונה אחרת.","lang":"he","char":"ר"}
+{"word":"רעה חולה ","description":" צרה גדולה.","lang":"he","char":"ר"}
+{"word":"רעלה ","description":" צעיף לכיסוי הפנים.","lang":"he","char":"ר"}
+{"word":"רעץ ","description":" שבר, פוצץ, רצץ.","lang":"he","char":"ר"}
+{"word":"רף ","description":" מדף, איצטבה, נדבך, קורה.","lang":"he","char":"ר"}
+{"word":"רפה ","description":" נחלש, כהה.","lang":"he","char":"ר"}
+{"word":"רפה שכל ","description":" מוגבל בשכלו.","lang":"he","char":"ר"}
+{"word":"רפורמה ","description":" תיקון יסודי, שידוד מערכות.","lang":"he","char":"ר"}
+{"word":"רפיון רוח ","description":" חולשה.","lang":"he","char":"ר"}
+{"word":"רפרזנטטיבי ","description":" ייצוגי.","lang":"he","char":"ר"}
+{"word":"רפרף ","description":" ריחף.","lang":"he","char":"ר"}
+{"word":"רפרפת ","description":" פודינג, חביצה.","lang":"he","char":"ר"}
+{"word":"רפש ","description":" בוץ, לכלוך, דומן, סחי.","lang":"he","char":"ר"}
+{"word":"רץ ","description":" שליח מהיר, בלדר, מלאך, ציר.","lang":"he","char":"ר"}
+{"word":"רצען ","description":" 1. סנדלר; 2. אומן העובד בעור.","lang":"he","char":"ר"}
+{"word":"רצץ ","description":" שבר, ניפץ, רעץ.","lang":"he","char":"ר"}
+{"word":"רקבובית ","description":" חומר אורגני שהרקיב.","lang":"he","char":"ר"}
+{"word":"רקויאם ","description":" שיר אבל, שיר אשכבה.","lang":"he","char":"ר"}
+{"word":"רקח ","description":" ערבב.","lang":"he","char":"ר"}
+{"word":"רקיע ","description":" שמים.","lang":"he","char":"ר"}
+{"word":"רקיעה ","description":" דריכה בכוח.","lang":"he","char":"ר"}
+{"word":"רקיק ","description":" עוגה, אפיפית, צפיחית, פכסם.","lang":"he","char":"ר"}
+{"word":"רקק ","description":" ביצה, מקווה מים עכורים.","lang":"he","char":"ר"}
+{"word":"רקק ","description":" ירק.","lang":"he","char":"ר"}
+{"word":"רש ","description":" עני, דלפון, דל, אביון.","lang":"he","char":"ר"}
+{"word":"רשות הרבים ","description":" מקום ציבורי.","lang":"he","char":"ר"}
+{"word":"רשף ","description":" גחלת, ניצוץ, שביב.","lang":"he","char":"ר"}
+{"word":"רתת ","description":" רעד, רטט.","lang":"he","char":"ר"}
+{"word":"רתתן ","description":" הססן.","lang":"he","char":"ר"}

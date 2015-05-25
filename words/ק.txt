@@ -1,0 +1,180 @@
+{"word":"קב ","description":" 1. מידה קטנה; 2. משענת לנכה.","lang":"he","char":"ק"}
+{"word":"קבל עם ועדה ","description":" בפומבי.","lang":"he","char":"ק"}
+{"word":"קבס ","description":" גועל, בחילה, זרא, מיאוס.","lang":"he","char":"ק"}
+{"word":"קבע מסמרות בדבר ","description":" ניסח ככללים קבועים שאין לשנותם.","lang":"he","char":"ק"}
+{"word":"קברניט ","description":" 1. מפקד אוניה או מטוס; 2. מנהיג, פרנס, נגיד, נשיא.","lang":"he","char":"ק"}
+{"word":"קדומני ","description":" הנמצא לפנים, קדמי.","lang":"he","char":"ק"}
+{"word":"קדורני ","description":" קודר.","lang":"he","char":"ק"}
+{"word":"קדח ","description":" חלל של קידוח.","lang":"he","char":"ק"}
+{"word":"קדחתנות ","description":" התלהבות מופרזת, בהילות.","lang":"he","char":"ק"}
+{"word":"קדים ","description":" מזרח, קדם.","lang":"he","char":"ק"}
+{"word":"קדם ","description":" 1. תקופות קדומות; 2. צד מזרח.","lang":"he","char":"ק"}
+{"word":"קדנציה ","description":" תקופה קצובה לפעילות רשות נבחרת.","lang":"he","char":"ק"}
+{"word":"קדר ","description":" יוצר כלי חרס (ראה גם “אבניים”).","lang":"he","char":"ק"}
+{"word":"קדרה ","description":" סיר, מגס, אלפס, פרור.","lang":"he","char":"ק"}
+{"word":"קהה ","description":" לא חד, מטושטש, מעורפל.","lang":"he","char":"ק"}
+{"word":"קהות חושים ","description":" חושים שאינם חדים.","lang":"he","char":"ק"}
+{"word":"קו פרשת המים ","description":" נקודת זמן שממנה לא ניתן לחזור.","lang":"he","char":"ק"}
+{"word":"קואופרטיב ","description":" איגוד.","lang":"he","char":"ק"}
+{"word":"קוב ","description":" מידת נפח.","lang":"he","char":"ק"}
+{"word":"קובה ","description":" סוכה, אוהל, חופה.","lang":"he","char":"ק"}
+{"word":"קוביוסטוס ","description":" מהמר.","lang":"he","char":"ק"}
+{"word":"קובלנה ","description":" תלונה, טענה, מענה, תרעומת.","lang":"he","char":"ק"}
+{"word":"קובע ","description":" קסדה.","lang":"he","char":"ק"}
+{"word":"קובעת ","description":" כוס, גביע, בזיך, אגן.","lang":"he","char":"ק"}
+{"word":"קוגנטיבי ","description":" הכרני, ששייך להכרה.","lang":"he","char":"ק"}
+{"word":"קודקס ","description":" קובץ חוקים.","lang":"he","char":"ק"}
+{"word":"קוהרנטי ","description":" הגיוני, עקבי.","lang":"he","char":"ק"}
+{"word":"קווצה ","description":" קבוצה של שערות, ציצה.","lang":"he","char":"ק"}
+{"word":"קוטל קנים ","description":" אדם פשוט, הדיוט, בור.","lang":"he","char":"ק"}
+{"word":"קולגה ","description":" עמית.","lang":"he","char":"ק"}
+{"word":"קולגיאליות ","description":" נאמנות בין חברים.","lang":"he","char":"ק"}
+{"word":"קולוניה ","description":" מושבה.","lang":"he","char":"ק"}
+{"word":"קולוסלי ","description":" עצום, כביר, טיטני.","lang":"he","char":"ק"}
+{"word":"קולינרי ","description":" של אמנות הבישול, גסטרונומי.","lang":"he","char":"ק"}
+{"word":"קולמוס ","description":" עט, מכשיר כתיבה.","lang":"he","char":"ק"}
+{"word":"קולס ","description":" גבעול, קנה, קלח.","lang":"he","char":"ק"}
+{"word":"קולקטיבי ","description":" ציבורי, כללי, משותף.","lang":"he","char":"ק"}
+{"word":"קולקציה ","description":" אוסף.","lang":"he","char":"ק"}
+{"word":"קומבינציה ","description":" צירוף, הרכבה.","lang":"he","char":"ק"}
+{"word":"קוממיות ","description":" תקומה, עצמאות, ריבוניות.","lang":"he","char":"ק"}
+{"word":"קומפוזיטור ","description":" מלחין.","lang":"he","char":"ק"}
+{"word":"קומפטנטי ","description":" מתאים.","lang":"he","char":"ק"}
+{"word":"קומפליקציה ","description":" סיבוך.","lang":"he","char":"ק"}
+{"word":"קומפנסציה ","description":" פיצוי, תגמול, שיפוי.","lang":"he","char":"ק"}
+{"word":"קומפקטי ","description":" קטן ויעיל.","lang":"he","char":"ק"}
+{"word":"קומפרומיס ","description":" פשרה.","lang":"he","char":"ק"}
+{"word":"קומץ ","description":" כמות קטנה, קמצוץ, קורט.","lang":"he","char":"ק"}
+{"word":"קונדסות ","description":" מעשי שובבות, תעלולים.","lang":"he","char":"ק"}
+{"word":"קונוטציה ","description":" משמעות נוספת.","lang":"he","char":"ק"}
+{"word":"קונוס ","description":" חרוט.","lang":"he","char":"ק"}
+{"word":"קונטקסט ","description":" הקשר.","lang":"he","char":"ק"}
+{"word":"קונטרוורסלי ","description":" שנוי במחלוקת.","lang":"he","char":"ק"}
+{"word":"קונטרס ","description":" גיליון, רשימה, חוברת.","lang":"he","char":"ק"}
+{"word":"קונסונאנס ","description":" הרמוניה.","lang":"he","char":"ק"}
+{"word":"קונסטיטוציה ","description":" חוקה.","lang":"he","char":"ק"}
+{"word":"קונסטרוקציה ","description":" מבנה.","lang":"he","char":"ק"}
+{"word":"קונספירציה ","description":" קשר חשאי, קנוניה.","lang":"he","char":"ק"}
+{"word":"קונספציה ","description":" תפיסה, השקפה.","lang":"he","char":"ק"}
+{"word":"קונסרבטיבי ","description":" שמרני, פוריטני.","lang":"he","char":"ק"}
+{"word":"קונפורמי ","description":" צייתן, הולך עם הזרם.","lang":"he","char":"ק"}
+{"word":"קונפליקט ","description":" מאבק, עימות, ניגוד.","lang":"he","char":"ק"}
+{"word":"קונצנזוס ","description":" הסכמה כללית, תמימות דעים.","lang":"he","char":"ק"}
+{"word":"קונצרן ","description":" התאחדות מפעלים תחת הנהלה משותפת.","lang":"he","char":"ק"}
+{"word":"קונקרטי ","description":" ממשי, מוחשי, ריאלי.","lang":"he","char":"ק"}
+{"word":"קוסמוס ","description":" עולם, יקום, תבל, חלד.","lang":"he","char":"ק"}
+{"word":"קוף ","description":" חור המחט.","lang":"he","char":"ק"}
+{"word":"קופיץ ","description":" סכין לחיתוך בשר.","lang":"he","char":"ק"}
+{"word":"קופת שרצים ","description":" אוסף עבירות ועניינים מפוקפקים שיש לאדם.","lang":"he","char":"ק"}
+{"word":"קוצו של יוד ","description":" דבר קטן וחסר ערך.","lang":"he","char":"ק"}
+{"word":"קוצר יד ","description":" חוסר יכולת, אין אונים.","lang":"he","char":"ק"}
+{"word":"קוקטי ","description":" גנדרני, מתחנחן, מטורזן.","lang":"he","char":"ק"}
+{"word":"קור רוח ","description":" שליטה עצמית.","lang":"he","char":"ק"}
+{"word":"קורט ","description":" מידה קטנה, מעט.","lang":"he","char":"ק"}
+{"word":"קורטוב ","description":" כמות מועטה, שמץ.","lang":"he","char":"ק"}
+{"word":"קוריוז ","description":" מקרה מבדח.","lang":"he","char":"ק"}
+{"word":"קורלציה ","description":" מתאם, קשר של שני גדלים.","lang":"he","char":"ק"}
+{"word":"קורנס ","description":" פטיש כבד, מקוב, מקבת.","lang":"he","char":"ק"}
+{"word":"קורקטי ","description":" הוגן, ראוי, נאות, הולם.","lang":"he","char":"ק"}
+{"word":"קורת רוח ","description":" הנאה, שביעות רצון.","lang":"he","char":"ק"}
+{"word":"קושיה ","description":" שאלה קשה.","lang":"he","char":"ק"}
+{"word":"קושן ","description":" תעודת רישום של קרקע.","lang":"he","char":"ק"}
+{"word":"קושש ","description":" אסף, ליקט, גיבב, צבר.","lang":"he","char":"ק"}
+{"word":"קזוס בלי ","description":" עילה למלחמה.","lang":"he","char":"ק"}
+{"word":"קטגורי ","description":" מוחלט.","lang":"he","char":"ק"}
+{"word":"קטום ","description":" שנכרת ראשו.","lang":"he","char":"ק"}
+{"word":"קטליזטור ","description":" זרז.","lang":"he","char":"ק"}
+{"word":"קטרוג ","description":" האשמה.","lang":"he","char":"ק"}
+{"word":"קיבוץ גלויות ","description":" התכנסות יהודים מרחבי העולם לארץ ישראל (ראה גם פזורה).","lang":"he","char":"ק"}
+{"word":"קיבורת ","description":" שריר הזרוע.","lang":"he","char":"ק"}
+{"word":"קיבר ","description":" קמח גס.","lang":"he","char":"ק"}
+{"word":"קידושין ","description":" נישואין.","lang":"he","char":"ק"}
+{"word":"קיטון ","description":" חדר קטן.","lang":"he","char":"ק"}
+{"word":"קיטע ","description":" קטוע יד או רגל.","lang":"he","char":"ק"}
+{"word":"קילס ","description":" 1. לעג, גידף; 2. שיבח, הילל.","lang":"he","char":"ק"}
+{"word":"קינרס ","description":" ארטישוק.","lang":"he","char":"ק"}
+{"word":"קיפד ","description":" חתך.","lang":"he","char":"ק"}
+{"word":"קיקיוני ","description":" ארעי.","lang":"he","char":"ק"}
+{"word":"קירזול ","description":" סלסול.","lang":"he","char":"ק"}
+{"word":"קיתון ","description":" כד, עביט, יורה.","lang":"he","char":"ק"}
+{"word":"קיתונות ","description":" כמות גדולה.","lang":"he","char":"ק"}
+{"word":"קל וחומר ","description":" ודאי, על אחת כמה וכמה.","lang":"he","char":"ק"}
+{"word":"קלגס ","description":" חייל אכזר, השייך לצבא כובש.","lang":"he","char":"ק"}
+{"word":"קלון ","description":" בושה, כלימה, ביזיון, חרפה.","lang":"he","char":"ק"}
+{"word":"קלוש ","description":" דליל.","lang":"he","char":"ק"}
+{"word":"קלח ","description":" זרם.","lang":"he","char":"ק"}
+{"word":"קלחת ","description":" סיר גדול, קדרה, פרור.","lang":"he","char":"ק"}
+{"word":"קלי ","description":" טוסט, צנים, פכסם.","lang":"he","char":"ק"}
+{"word":"קליבר ","description":" 1. קוטר צינור חלול; 2. קנה מידה, טיב, שיעור.","lang":"he","char":"ק"}
+{"word":"קליגרפיה ","description":" כתיבה תמה.","lang":"he","char":"ק"}
+{"word":"קליני ","description":" רפואי.","lang":"he","char":"ק"}
+{"word":"קלישאה ","description":" שבלונה, ביטוי נדוש.","lang":"he","char":"ק"}
+{"word":"קלל ","description":" מבריק, מלוטש.","lang":"he","char":"ק"}
+{"word":"קליסיפיקציה ","description":" מיון.","lang":"he","char":"ק"}
+{"word":"קלסתר פנים ","description":" תווי פנים של אדם.","lang":"he","char":"ק"}
+{"word":"קלע ","description":" מיידה אבנים קטנות, רוגטקה.","lang":"he","char":"ק"}
+{"word":"קלפטומן ","description":" בעל דחף לגנוב.","lang":"he","char":"ק"}
+{"word":"קלקל את השורה ","description":" סטה מדרך הישר.","lang":"he","char":"ק"}
+{"word":"קם ","description":" אויב, שונא, צר, צורר, רודף.","lang":"he","char":"ק"}
+{"word":"קמאי ","description":" ראשוני, קדמון, היולי.","lang":"he","char":"ק"}
+{"word":"קמה ","description":" שם כולל לתבואה לפני הקציר.","lang":"he","char":"ק"}
+{"word":"קמה בו רוח ","description":" לא פחד.","lang":"he","char":"ק"}
+{"word":"קמטר ","description":" שידה, ארונית.","lang":"he","char":"ק"}
+{"word":"קמילה ","description":" נבילה, כמישה, התייבשות.","lang":"he","char":"ק"}
+{"word":"קמין ","description":" תנור, אח, כירה, כבשן.","lang":"he","char":"ק"}
+{"word":"קמעה ","description":" מעט, קצת, קורט, קורטוב.","lang":"he","char":"ק"}
+{"word":"קמרון ","description":" כיפה, בליטה.","lang":"he","char":"ק"}
+{"word":"קנה אחיזה ","description":" תפס.","lang":"he","char":"ק"}
+{"word":"קנה במשיכה ","description":" גנב.","lang":"he","char":"ק"}
+{"word":"קנה לו שם ","description":" התפרסם.","lang":"he","char":"ק"}
+{"word":"קנה עולמו ","description":" זכה להצלחה רבה.","lang":"he","char":"ק"}
+{"word":"קנה שביתה ","description":" התיישב במקום, נאחז בו.","lang":"he","char":"ק"}
+{"word":"קנוניה ","description":" הסכם חשאי, קונספירציה.","lang":"he","char":"ק"}
+{"word":"קנוקנת ","description":" גבעול דק, המאפשר לצמח להיאחז בקיר.","lang":"he","char":"ק"}
+{"word":"קניין ","description":" רכוש.","lang":"he","char":"ק"}
+{"word":"קנרס ","description":" ארטישוק, חרשף, חורשף.","lang":"he","char":"ק"}
+{"word":"קסרקטין ","description":" מחנה צבאי.","lang":"he","char":"ק"}
+{"word":"קסת ","description":" כלי לדיו, דיותה.","lang":"he","char":"ק"}
+{"word":"קעור ","description":" שקוע כלפי פנים.","lang":"he","char":"ק"}
+{"word":"קפא על שמריו ","description":" לא השתנה.","lang":"he","char":"ק"}
+{"word":"קפוץ יד ","description":" קמצן, צייקן.","lang":"he","char":"ק"}
+{"word":"קפיטלי ","description":" ראשי.","lang":"he","char":"ק"}
+{"word":"קפלה ","description":" כנסייה קתולית.","lang":"he","char":"ק"}
+{"word":"קפלט ","description":" פאה נוכרית.","lang":"he","char":"ק"}
+{"word":"קפץ ","description":" סגר, קמץ.","lang":"he","char":"ק"}
+{"word":"קפץ פיו ","description":" השתתק, נדם, נאלם דום.","lang":"he","char":"ק"}
+{"word":"קפריזי ","description":" גחמני.","lang":"he","char":"ק"}
+{"word":"קץ ","description":" מאס, בחל, תיעב, היה לו לזרא.","lang":"he","char":"ק"}
+{"word":"קצף ","description":" כעס, חימה, חרון, חרי אף.","lang":"he","char":"ק"}
+{"word":"קצר רוח ","description":" חסר סבלנות, רגזן.","lang":"he","char":"ק"}
+{"word":"קצרה ידו ","description":" לא יכול לעזור.","lang":"he","char":"ק"}
+{"word":"קרא לו דרור ","description":" שחרר אותו.","lang":"he","char":"ק"}
+{"word":"קרא תיגר ","description":" ערער, התריס, יצא נגד.","lang":"he","char":"ק"}
+{"word":"קרביים ","description":" חלקי גוף פנימיים.","lang":"he","char":"ק"}
+{"word":"קרדום ","description":" גרזן.","lang":"he","char":"ק"}
+{"word":"קרדום לחפור בו ","description":" ניצל דבר לתועלתו.","lang":"he","char":"ק"}
+{"word":"קרדיט ","description":" אשראי, הקפה.","lang":"he","char":"ק"}
+{"word":"קרדינאל ","description":" דרגת כמורה בכירה.","lang":"he","char":"ק"}
+{"word":"קרדינאלי ","description":" עיקרי, יסודי, חשוב.","lang":"he","char":"ק"}
+{"word":"קרוא ","description":" אורח, מוזמן.","lang":"he","char":"ק"}
+{"word":"קרוב לוודאי ","description":" ככל הנראה, יש להניח.","lang":"he","char":"ק"}
+{"word":"קרוי ","description":" התקנת תקרה, חיפוי, סיכוך.","lang":"he","char":"ק"}
+{"word":"קרוץ ","description":" חצוב, נוצר, עשוי.","lang":"he","char":"ק"}
+{"word":"קרוש ","description":" יבש.","lang":"he","char":"ק"}
+{"word":"קרטל ","description":" איגוד של חברות לשם שמירת המונופול.","lang":"he","char":"ק"}
+{"word":"קריה ","description":" עיר, כרך, מטרופולין, קרת.","lang":"he","char":"ק"}
+{"word":"קריטריון ","description":" אמת מידה, אבן בוחן.","lang":"he","char":"ק"}
+{"word":"קרם עור וגידים ","description":" הלך ונוצר, מומש באופן מעשי.","lang":"he","char":"ק"}
+{"word":"קרן זווית ","description":" פינה.","lang":"he","char":"ק"}
+{"word":"קרס ","description":" וו, אנקול.","lang":"he","char":"ק"}
+{"word":"קרע קרע ","description":" התאבל, נשא קינה.","lang":"he","char":"ק"}
+{"word":"קרפיף ","description":" שטח גדור, עזרה.","lang":"he","char":"ק"}
+{"word":"קרקע בתולה ","description":" אדמה שלא עובדה מעולם, עניין שלא עסקו בו.","lang":"he","char":"ק"}
+{"word":"קרת ","description":" עיר קטנה, כרך, קריה.","lang":"he","char":"ק"}
+{"word":"קרתן ","description":" בן עיר קטנה שאינו בקי בהליכות העיר, תמים.","lang":"he","char":"ק"}
+{"word":"קש וגבבה ","description":" דברים חסרי חשיבות.","lang":"he","char":"ק"}
+{"word":"קשה עורף ","description":" עקשן, סרבן.","lang":"he","char":"ק"}
+{"word":"קשר גורדי ","description":" תסבוכת שקשה לצאת ממנה.","lang":"he","char":"ק"}
+{"word":"קשר כתרים ","description":" הילל, שיבח, קילס.","lang":"he","char":"ק"}
+{"word":"קשה יום ","description":" מסכן.","lang":"he","char":"ק"}
+{"word":"קתדרה ","description":" כיסא כבוד, דוכן.","lang":"he","char":"ק"}
