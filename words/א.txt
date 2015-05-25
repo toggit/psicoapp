@@ -1,0 +1,331 @@
+{"word":"אבד עליו הכלח ","description":" התיישן, עבר זמנו, אנכרוניסטי.","lang":"he","char":"א"}
+{"word":"אבדון ","description":" חורבן, כליה, כליון, הרס גמור.","lang":"he","char":"א"}
+{"word":"אבוס ","description":" כלי לנתינת אוכל לבהמות.","lang":"he","char":"א"}
+{"word":"אבוקה ","description":" לפיד, משואה.","lang":"he","char":"א"}
+{"word":"אבות אכלו בוסר ושיני בנים תקהינה ","description":"בנים נענשים בגלל חטאי הוריהם.","lang":"he","char":"א"}
+{"word":"אבחה","description":" 1. תנופה; 2. טבח, חורבן.","lang":"he","char":"א"}
+{"word":"אבטיפוס ","description":" מקור.","lang":"he","char":"א"}
+{"word":"אבן הראשה ","description":" האבן האמצעית בקשת בניין.","lang":"he","char":"א"}
+{"word":"אבן יסוד ","description":" מרכיב חיוני, עליו מבוסס דבר מה.","lang":"he","char":"א"}
+{"word":"אבן נגולה מעל ליבו ","description":" הוקל לו, רווח לו.","lang":"he","char":"א"}
+{"word":"אבן נגף ","description":" מכשול, תקלה, מהמורה, פח.","lang":"he","char":"א"}
+{"word":"אבן פינה ","description":" עיקר.","lang":"he","char":"א"}
+{"word":"אבן ריחיים ","description":" עול כבד.","lang":"he","char":"א"}
+{"word":"אבן שואבת ","description":" דבר שהוא מוקד התעניינות.","lang":"he","char":"א"}
+{"word":"אבן שפה ","description":" האבנים שבשולי הכביש, תחילת המדרכה.","lang":"he","char":"א"}
+{"word":"אבניים ","description":" גלגל ליצירת כלי חרס.","lang":"he","char":"א"}
+{"word":"אבסולוטי ","description":" מוחלט.","lang":"he","char":"א"}
+{"word":"אבק אדם ","description":" אדם נטול ערך.","lang":"he","char":"א"}
+{"word":"אבק פורח ","description":" דבר נטול כל ערך.","lang":"he","char":"א"}
+{"word":"אברך ","description":" איש צעיר, נשוי בשנותיו הראשונות.","lang":"he","char":"א"}
+{"word":"אגב ","description":" בהזדמנות זו, תוך כדי כך, אגב אורחא.","lang":"he","char":"א"}
+{"word":"אגד ","description":" חבילה, צרור, אמתחת, ציקלון.","lang":"he","char":"א"}
+{"word":"אגוז קשה לפיצוח ","description":" בעיה שקשה לפתור אותה.","lang":"he","char":"א"}
+{"word":"אגליטרי ","description":" שוויוני.","lang":"he","char":"א"}
+{"word":"אגן ","description":" ספל, קערה, בזיך, קובעת.","lang":"he","char":"א"}
+{"word":"אגרונום ","description":" מומחה בתחום החקלאות.","lang":"he","char":"א"}
+{"word":"אגרסיבי ","description":" תוקפני.","lang":"he","char":"א"}
+{"word":"אד הוק ","description":" ייעודי, במיוחד לשם תכלית מסוימת.","lang":"he","char":"א"}
+{"word":"אדווה ","description":" גל קטן.","lang":"he","char":"א"}
+{"word":"אדם מן הישוב ","description":" אדם מתורבת.","lang":"he","char":"א"}
+{"word":"אדמת טרשים ","description":" אדמה סלעית, שאינה ניתנת לעיבוד.","lang":"he","char":"א"}
+{"word":"אדמת שלחין ","description":" קרקע חקלאית בהשקיה מלאכותית.","lang":"he","char":"א"}
+{"word":"אדן ","description":" בסיס, יסוד (צירוף מוכר: אדן החלון).","lang":"he","char":"א"}
+{"word":"אדנות ","description":" שלטון, שררה, עצר, מרות.","lang":"he","char":"א"}
+{"word":"אדרבה ואדרבה ","description":" ההפך הוא הנכון.","lang":"he","char":"א"}
+{"word":"אהבה התלויה בדבר ","description":" אהבה מתוך מניעים אישיים.","lang":"he","char":"א"}
+{"word":"אהדדי ","description":" באופן הדדי, זה לזה.","lang":"he","char":"א"}
+{"word":"אוב ","description":" 1. כלי עור לנוזלים, נאד, חמת; 2. סיאנס, כישוף.","lang":"he","char":"א"}
+{"word":"אובד עצות ","description":" מבולבל, נבוך, איבד את העשתונות.","lang":"he","char":"א"}
+{"word":"אובייקט ","description":" עצם.","lang":"he","char":"א"}
+{"word":"אובייקטיבי ","description":" ענייני, חסר העדפה אישית.","lang":"he","char":"א"}
+{"word":"אובליגטורי ","description":" מחייב.","lang":"he","char":"א"}
+{"word":"אוגדן ","description":" קלסר.","lang":"he","char":"א"}
+{"word":"אוד ","description":" גזיר עץ בוער, שלא נשרף כולו.","lang":"he","char":"א"}
+{"word":"אוד מוצל מאש ","description":" שריד, פליט.","lang":"he","char":"א"}
+{"word":"אוד עשן ","description":" כינוי לאדם תשוש.","lang":"he","char":"א"}
+{"word":"אווילות ","description":" טיפשות.","lang":"he","char":"א"}
+{"word":"אוונגרדי ","description":" חדשני.","lang":"he","char":"א"}
+{"word":"אוזלת יד ","description":" חוסר יכולת, אימפוטנציה, קוצר יד.","lang":"he","char":"א"}
+{"word":"אוזניים לכותל ","description":" מצב שקשה לשמור בו סוד.","lang":"he","char":"א"}
+{"word":"אוטוביוגרפיה ","description":" תולדות האדם, אותן כתב בעצמו.","lang":"he","char":"א"}
+{"word":"אוטודידקט ","description":" לומד בעצמו.","lang":"he","char":"א"}
+{"word":"אוטוקרט ","description":" שליט יחיד, טירן, דספוט, דיקטטור.","lang":"he","char":"א"}
+{"word":"אויל ","description":" טיפש, סכל, שוטה, כסיל.","lang":"he","char":"א"}
+{"word":"אומדן ","description":" הערכה, שומה.","lang":"he","char":"א"}
+{"word":"אומניפוטנט ","description":" כל-יכול.","lang":"he","char":"א"}
+{"word":"אומר דרשני ","description":" דורש עיון.","lang":"he","char":"א"}
+{"word":"און ","description":" כוח, גבורה, איל, עזוז, מעוז.","lang":"he","char":"א"}
+{"word":"אונגרד ","description":" חלוץ, חדשני.","lang":"he","char":"א"}
+{"word":"אוניברסלי ","description":" עולמי, כללי.","lang":"he","char":"א"}
+{"word":"אוניפורמי ","description":" בעל צורה אחידה.","lang":"he","char":"א"}
+{"word":"אונקיה ","description":" מידת משקל קטנה.","lang":"he","char":"א"}
+{"word":"אופורטוניזם ","description":" סתגלנות, פשרנות אידיאולוגית.","lang":"he","char":"א"}
+{"word":"אופורטוניסט ","description":" מנצל הזדמנויות.","lang":"he","char":"א"}
+{"word":"אופטימלי ","description":" מיטבי, הטוב ביותר.","lang":"he","char":"א"}
+{"word":"אופן ","description":" גלגל.","lang":"he","char":"א"}
+{"word":"אוצר ","description":" מי שממונה על המצגים במוזיאון.","lang":"he","char":"א"}
+{"word":"אוצר בלום ","description":" 1. אוצר גדול; 2. אדם בעל ידיעות רחבות.","lang":"he","char":"א"}
+{"word":"אורבני ","description":" עירוני.","lang":"he","char":"א"}
+{"word":"אור יקרות ","description":" אור נעים.","lang":"he","char":"א"}
+{"word":"אורגניזם ","description":" יצור חי.","lang":"he","char":"א"}
+{"word":"אורו עיניו — אורו פניו, שמח, התמלא חיים.","description":"","lang":"he","char":"א"}
+{"word":"אורחה ","description":" שיירה (המצויה בדרך).","lang":"he","char":"א"}
+{"word":"אורחו וריבעו ","description":" דרך חייו, מנהגיו.","lang":"he","char":"א"}
+{"word":"אורך רוח ","description":" סבלנות.","lang":"he","char":"א"}
+{"word":"אורלוגין ","description":" שעון קיר.","lang":"he","char":"א"}
+{"word":"אורקל ","description":" מגיד עתידות.","lang":"he","char":"א"}
+{"word":"אורתודוכסי ","description":" 1. שמרן, פוריט 2. אדוק בדתו.","lang":"he","char":"א"}
+{"word":"אושיה ","description":" 1. איש ציבור, ידוען; 2. משען, יסוד (נכתב גם אשיה)","lang":"he","char":"א"}
+{"word":"אותה הגברת בשינוי אדרת ","description":" אותו הדבר, שינוי חיצוני לא מהותי.","lang":"he","char":"א"}
+{"word":"אותיות פורחות ","description":" דיבור שאינו ברור.","lang":"he","char":"א"}
+{"word":"אות קין ","description":" בושה שאין למחותה, אות קלון.","lang":"he","char":"א"}
+{"word":"אותיות של טל ומטר ","description":" אותיות קטנות מאוד.","lang":"he","char":"א"}
+{"word":"אותיות של קידוש לבנה ","description":" אותיות גדולות מאוד.","lang":"he","char":"א"}
+{"word":"אותנטי ","description":" אמיתי, מקורי, לא מזויף.","lang":"he","char":"א"}
+{"word":"אזוב ","description":" כינוי לטחב המכסה אבנים ועצים.","lang":"he","char":"א"}
+{"word":"אזוטרי ","description":" ידוע למעטים, סודי.","lang":"he","char":"א"}
+{"word":"אזניו כרויות ","description":" אוזניו פתוחות, הוא מקשיב היטב.","lang":"he","char":"א"}
+{"word":"אזניים לכותל ","description":" המקום או המצב אינם מתאימים לחשוף בהם סוד.","lang":"he","char":"א"}
+{"word":"אזר חלציו ","description":" התחזק, אזר כוח, שינס מותניו.","lang":"he","char":"א"}
+{"word":"אח ","description":" תנור, קמין, כירה, כבשן.","lang":"he","char":"א"}
+{"word":"אחד בפה ואחד בלב ","description":" צביעות, אין פיו ולבו שווים.","lang":"he","char":"א"}
+{"word":"אחו ","description":" כר דשא, שדה מרעה, אפר.","lang":"he","char":"א"}
+{"word":"אחוז תזזית ","description":" משוגע.","lang":"he","char":"א"}
+{"word":"אחז את החבל בשני קצותיו ","description":" ביצע שני דברים מנוגדים.","lang":"he","char":"א"}
+{"word":"אחז את השור בקרניו ","description":" נכנס ללב העניין, נכנס בעובי הקורה.","lang":"he","char":"א"}
+{"word":"אחז בקרנות המזבח ","description":" תפס מחסה, ביקש מפלט.","lang":"he","char":"א"}
+{"word":"אחיזת עיניים ","description":" תרמית, הולכת שולל.","lang":"he","char":"א"}
+{"word":"אחר רוחו ","description":" כפי שרצה.","lang":"he","char":"א"}
+{"word":"אחרי המבול ","description":" לא אכפת לי.","lang":"he","char":"א"}
+{"word":"אחרית ","description":" סוף, קץ.","lang":"he","char":"א"}
+{"word":"אחריתו עדי עובד ","description":" סופו רע ומר.","lang":"he","char":"א"}
+{"word":"אטב ","description":" מהדק נייר או כביסה לחבל.","lang":"he","char":"א"}
+{"word":"אטרופיה ","description":" התנוונות.","lang":"he","char":"א"}
+{"word":"איבד את העשתונות ","description":" התבלבל, נבוך, אובד עצות.","lang":"he","char":"א"}
+{"word":"איד ","description":" צרה, אסון, שבר, פיד.","lang":"he","char":"א"}
+{"word":"אידיליה ","description":" שלווה, הרמוניה, פסטורליה.","lang":"he","char":"א"}
+{"word":"אידרה ","description":" עצם של דג.","lang":"he","char":"א"}
+{"word":"איוולת ","description":" שטות.","lang":"he","char":"א"}
+{"word":"איוושה ","description":" רחש קל.","lang":"he","char":"א"}
+{"word":"איחוי ","description":" חיבור, תפירה.","lang":"he","char":"א"}
+{"word":"איטר ","description":" שמאלי.","lang":"he","char":"א"}
+{"word":"איכה? ","description":" איך? הכיצד?","lang":"he","char":"א"}
+{"word":"איכול ","description":" בעירה, שריפה.","lang":"he","char":"א"}
+{"word":"איל ","description":" כוח, תעצומה, גבורה, עוז, חוסן, חיל.","lang":"he","char":"א"}
+{"word":"אילוח ","description":" זיהום, אינפקציה.","lang":"he","char":"א"}
+{"word":"אילולא ","description":" אם לא, אילו לא, לולא, אלמלא.","lang":"he","char":"א"}
+{"word":"אילוסטרציה ","description":" 1. איור; 2. הדגמה, המחשה.","lang":"he","char":"א"}
+{"word":"אילני סרק קולם הולך ","description":" טיפש המרבה להתרברב.","lang":"he","char":"א"}
+{"word":"אלפס ","description":" סיר, מרחשת, קלחת, קדרה, פרור.","lang":"he","char":"א"}
+{"word":"אימום ","description":" תבנית של כף הרגל.","lang":"he","char":"א"}
+{"word":"אימפולסיבי ","description":" מונע על-ידי דחפים.","lang":"he","char":"א"}
+{"word":"אימפרוביזציה ","description":" אלתור.","lang":"he","char":"א"}
+{"word":"אימץ את ידיו ","description":" עודד אותו, דרבן אותו.","lang":"he","char":"א"}
+{"word":"אימרה ","description":" 1. פתגם, מטבע לשון, מימרה ;2. שולי האריג.","lang":"he","char":"א"}
+{"word":"אימתי ","description":" מתי.","lang":"he","char":"א"}
+{"word":"אין אונים ","description":" חוסר יכולת, אוזלת יד, קוצר יד.","lang":"he","char":"א"}
+{"word":"אין את נפשו ","description":" אינו רוצה.","lang":"he","char":"א"}
+{"word":"אין בלבו עליו ","description":" אינו כועס עליו.","lang":"he","char":"א"}
+{"word":"אין הנחתום מעיד על עיסתו ","description":"אדם לא יכול לחוות דעה על מעשיו שלו.","lang":"he","char":"א"}
+{"word":"אין הריחיים בצווארו ","description":" אין לו בעיות פרנסה.","lang":"he","char":"א"}
+{"word":"אין כוחו אלא בפיו ","description":" פטפטן, שמבטיח רבות ואינו מקיים.","lang":"he","char":"א"}
+{"word":"אין לו אח ורע ","description":" אין כמותו.","lang":"he","char":"א"}
+{"word":"אין לו דמים ","description":" יקר ערך.","lang":"he","char":"א"}
+{"word":"אין לו חלק ונחלה ","description":" אין לו קשר.","lang":"he","char":"א"}
+{"word":"אין לו חקר ","description":" לא ניתן להערכה.","lang":"he","char":"א"}
+{"word":"אין לו שחר ","description":" לא מבוסס.","lang":"he","char":"א"}
+{"word":"אין מנוס ","description":" אין ברירה.","lang":"he","char":"א"}
+{"word":"אין נביא בעירו ","description":" אדם אינו זוכה להערכה בסביבתו.","lang":"he","char":"א"}
+{"word":"אין סכין מתחדדת אלא בירך חברתה ","description":" לימוד בצוותא משפר את הלמידה.","lang":"he","char":"א"}
+{"word":"אין סתרו כגילויו ","description":" צבוע, אין פיו ולבו שווים.","lang":"he","char":"א"}
+{"word":"אין עליו עוררין ","description":" אין התנגדות„ התפרץ לדלת פתוחה, לית מאן דפליג.","lang":"he","char":"א"}
+{"word":"אין עשן בלא אש ","description":" אין דבר ללא סיבה.","lang":"he","char":"א"}
+{"word":"אין פיו ולבו שווים ","description":" צבוע, אין סתרו כגילויו.","lang":"he","char":"א"}
+{"word":"אין תוכו כברו ","description":" צבוע, אחד בפה ואחד בלב.","lang":"he","char":"א"}
+{"word":"אינדוקציה ","description":" לימוד מהפרט אל הכלל.","lang":"he","char":"א"}
+{"word":"אינדיקטור ","description":" מדד, אבן בוחן, אמת מידה.","lang":"he","char":"א"}
+{"word":"אינהרנטי ","description":" פנימי, טבוע.","lang":"he","char":"א"}
+{"word":"אינטגרלי ","description":" כולל, שלם.","lang":"he","char":"א"}
+{"word":"אינטראקציה ","description":" יחסי גומלין.","lang":"he","char":"א"}
+{"word":"אינטרוברטי ","description":" מופנם.","lang":"he","char":"א"}
+{"word":"אינספירציה ","description":" השראה.","lang":"he","char":"א"}
+{"word":"אינפנטילי ","description":" ילדותי.","lang":"he","char":"א"}
+{"word":"אינקוגניטו ","description":" בעילום שם, אנונימי, אלמוני.","lang":"he","char":"א"}
+{"word":"אינרציה ","description":" 1. שגרה; 2. התמדה.","lang":"he","char":"א"}
+{"word":"איסטניס ","description":" אנין, מעודן, יפה נפש.","lang":"he","char":"א"}
+{"word":"איסתרא בלגינא קיש קיש קריא ","description":"טיפש המרבה להתרברב, אילני סרק קולם הולך.","lang":"he","char":"א"}
+{"word":"איפה ","description":" מידה עתיקה.","lang":"he","char":"א"}
+{"word":"איפה ואיפה ","description":" אפליה, משוא פנים.","lang":"he","char":"א"}
+{"word":"איפול","description":"הטלת סודיות.","lang":"he","char":"א"}
+{"word":"איפכא מסתברא ","description":" להפך, ההפך הוא הנכון.","lang":"he","char":"א"}
+{"word":"איצטבה ","description":" מדף.","lang":"he","char":"א"}
+{"word":"איצטגנין ","description":" אסטרולוג.","lang":"he","char":"א"}
+{"word":"איצטלה ","description":" מסווה.","lang":"he","char":"א"}
+{"word":"איקונין ","description":" תמונה, דמות.","lang":"he","char":"א"}
+{"word":"איש אשכולות ","description":" בקי בנושאים רבים, ורסטילי.","lang":"he","char":"א"}
+{"word":"איש הישר בעיניו יעשה ","description":" מצב של אנרכיה, ללא שלטון מרכזי.","lang":"he","char":"א"}
+{"word":"איש חיל ","description":" גיבור או אדם מצליח.","lang":"he","char":"א"}
+{"word":"איש חרמו ","description":" אויבו.","lang":"he","char":"א"}
+{"word":"איש מדון ","description":" בעל נטייה לריב.","lang":"he","char":"א"}
+{"word":"איש מידות ","description":" גבוה.","lang":"he","char":"א"}
+{"word":"איש צפרדע ","description":" צוללן, אמודאי.","lang":"he","char":"א"}
+{"word":"אישקוקה ","description":" שחמט.","lang":"he","char":"א"}
+{"word":"איש קצוות ","description":" קיצוני.","lang":"he","char":"א"}
+{"word":"איש שם ","description":" מפורסם.","lang":"he","char":"א"}
+{"word":"אישוש ","description":" ביסוס, אישור מחדש, חיזוק (של טענה).","lang":"he","char":"א"}
+{"word":"אישרור ","description":" אישור סופי.","lang":"he","char":"א"}
+{"word":"איתן ","description":" יציב, חזק, שגיב.","lang":"he","char":"א"}
+{"word":"איתרע מזלו ","description":" הדברים היו לרעתו, ביש מזל.","lang":"he","char":"א"}
+{"word":"אכיפה ","description":" כפייה.","lang":"he","char":"א"}
+{"word":"אכל קורצה ","description":" הלשין.","lang":"he","char":"א"}
+{"word":"אכסדרה ","description":" מסדרון, פרוזדור.","lang":"he","char":"א"}
+{"word":"אכסיומה ","description":" הנחת יסוד שלא ניתן להוכיחה, אמיתה.","lang":"he","char":"א"}
+{"word":"אכף ","description":" לחץ, נטל, מעמסה.","lang":"he","char":"א"}
+{"word":"אכרומטי ","description":" חסר צבע.","lang":"he","char":"א"}
+{"word":"אל יתהלל חוגר כמפתח ","description":" אל תתפאר לפני מעשה.","lang":"he","char":"א"}
+{"word":"אל נא באפך ","description":" אל תכעס.","lang":"he","char":"א"}
+{"word":"אל נכון ","description":" בוודאות, ללא ספק, לבטח.","lang":"he","char":"א"}
+{"word":"אל תסתכל בקנקן אלא במה שיש בתוכו ","description":" הפנים חשוב יותר מהחיצוניות, לא כל הנוצץ זהב הוא.","lang":"he","char":"א"}
+{"word":"אל תעמדו על דם רעיכם ","description":" חושו לעזרת חבריכם.","lang":"he","char":"א"}
+{"word":"אלגוריה ","description":" משל.","lang":"he","char":"א"}
+{"word":"אלה ","description":" מקל, נבוט.","lang":"he","char":"א"}
+{"word":"אלה ","description":" 1. שבועה חמורה;2. קללה, קילוס.","lang":"he","char":"א"}
+{"word":"אלומה ","description":" אגודת שיבולים, עומר, עמיר.","lang":"he","char":"א"}
+{"word":"אלחוש ","description":" הרדמה.","lang":"he","char":"א"}
+{"word":"אלטרואיזם ","description":" אהבת הזולת, הקרבה למען אחרים, זולתנות.","lang":"he","char":"א"}
+{"word":"אלטרנטיבי ","description":" חלופי.","lang":"he","char":"א"}
+{"word":"אליבא דכלא עלמא ","description":" לפי דעת הכלל.","lang":"he","char":"א"}
+{"word":"אליבי ","description":"טענת הנאשם כי בעת ביצוע הפשע לא היה במקום המעשה","lang":"he","char":"א"}
+{"word":"אליה ","description":" זנב הכבשה.","lang":"he","char":"א"}
+{"word":"אליה וקוץ בה ","description":" גם בדבר טוב יש פגמים.","lang":"he","char":"א"}
+{"word":"אלם ","description":" שתיקה.","lang":"he","char":"א"}
+{"word":"אלמותי ","description":" נצחי.","lang":"he","char":"א"}
+{"word":"אלמלא","description":"אם לא, אילו לא, אילולא.","lang":"he","char":"א"}
+{"word":"אלמנך ","description":" לוח המציג את עונות השנה.","lang":"he","char":"א"}
+{"word":"אלסטי ","description":" גמיש.","lang":"he","char":"א"}
+{"word":"אלף ","description":" שור, פר.","lang":"he","char":"א"}
+{"word":"אלפון ","description":" ספר שבו הפרטים מסודרים על-פי סדר הא”ב.","lang":"he","char":"א"}
+{"word":"אם בארזים נפלה שלהבת, מה יגידו אזובי הקיר? ","description":"אם הגדולים נפלו בצרה, איך ימלטו ממנה החלשים?","lang":"he","char":"א"}
+{"word":"אמביולנטי ","description":" דו-ערכי, שיש בו רגשות מעורבים.","lang":"he","char":"א"}
+{"word":"אמבר ","description":" מחסן תבואה, אסם, ממגורה.","lang":"he","char":"א"}
+{"word":"אמברגו ","description":" הסגר, איסור על הוצאה והבאה של דברים מסוימים למקום מסוים.","lang":"he","char":"א"}
+{"word":"אמד ","description":" העריך, שיער גודל או טיב של משהו.","lang":"he","char":"א"}
+{"word":"אמה","description":" 1. מידת אורך;2. האצבע האמצעית ביד, אצבע צרדה.","lang":"he","char":"א"}
+{"word":"אמה ","description":" משרתת, שפחה.","lang":"he","char":"א"}
+{"word":"אמודאי ","description":" צוללן, איש צפרדע.","lang":"he","char":"א"}
+{"word":"אמון ","description":" מיומן.","lang":"he","char":"א"}
+{"word":"אמוק ","description":" טירוף, בלבול, תעתועים, עוועים.","lang":"he","char":"א"}
+{"word":"אמות הסיפים ","description":" העמודים, התומכים פתח או מבנה מצדדיו.","lang":"he","char":"א"}
+{"word":"אמורפי ","description":" חסר צורה.","lang":"he","char":"א"}
+{"word":"אמיד ","description":" עשיר.","lang":"he","char":"א"}
+{"word":"אמיר ","description":" צמרת.","lang":"he","char":"א"}
+{"word":"אמפיבי ","description":" דו חיים, יצור המסוגל להתקיים הן במים והן ביבשה.","lang":"he","char":"א"}
+{"word":"אמפתיה ","description":"אהדה, הזדהות.","lang":"he","char":"א"}
+{"word":"אמרה ","description":" 1. משפט קצר, פתגם;2. שפת הבד.","lang":"he","char":"א"}
+{"word":"אמש ","description":" 1. בלילה שעבר; 2.אתמול.","lang":"he","char":"א"}
+{"word":"אמתחת ","description":" שק גדול, תרמיל, צקלון, צרור, אגד.","lang":"he","char":"א"}
+{"word":"אמתלה ","description":" תירוץ, עילה, תואנה, גנות.","lang":"he","char":"א"}
+{"word":"אמת מידה ","description":" קנה מידה, קריטריון.","lang":"he","char":"א"}
+{"word":"אנדרטה ","description":" מצבת זיכרון, יד, גלעד.","lang":"he","char":"א"}
+{"word":"אנונימי ","description":" בעילום שם, אלמוני, אינקוגניטו.","lang":"he","char":"א"}
+{"word":"אנוף ","description":" נזוף.","lang":"he","char":"א"}
+{"word":"אנוש ","description":" חמור מאוד, עלול לגרום למוות.","lang":"he","char":"א"}
+{"word":"אנטגוניזם ","description":" התנגדות, ניגוד חריף.","lang":"he","char":"א"}
+{"word":"אנטומיה ","description":" חקר מבנה גוף החי והצומח.","lang":"he","char":"א"}
+{"word":"אנטיספטי ","description":" סטרילי.","lang":"he","char":"א"}
+{"word":"אנטיתזה ","description":" הנחה סותרת.","lang":"he","char":"א"}
+{"word":"אני ואפסי עוד ","description":" הבעת יהירות, אגוצנטרי.","lang":"he","char":"א"}
+{"word":"אניגמה ","description":" תעלומה, מסתורין.","lang":"he","char":"א"}
+{"word":"אניגמטי ","description":" חידתי.","lang":"he","char":"א"}
+{"word":"אניה ","description":" בכי, מספד, תאניה.","lang":"he","char":"א"}
+{"word":"אנין ","description":" עדין, בעל טעם מעודן, איסטניס.","lang":"he","char":"א"}
+{"word":"אנכרוניסטי ","description":" התיישן, עבר זמנו.","lang":"he","char":"א"}
+{"word":"אנליטי ","description":" ביקורתי, המפריד דבר לחלקיו.","lang":"he","char":"א"}
+{"word":"אנסמבל ","description":" להקת שחקנים או מוסיקאים.","lang":"he","char":"א"}
+{"word":"אנקה ","description":" גניחה, צעקה מתוך כאב או צער.","lang":"he","char":"א"}
+{"word":"אנפילאות ","description":" נעלי בית, דרדסים.","lang":"he","char":"א"}
+{"word":"אנקדוטה ","description":" בדיחה, הלצה.","lang":"he","char":"א"}
+{"word":"אנרכיה ","description":" העדר שלטון, אנדרלמוסיה.","lang":"he","char":"א"}
+{"word":"אנרכיזם ","description":" שלילת כל שלטון.","lang":"he","char":"א"}
+{"word":"אנשי שלומו ","description":" תומכיו.","lang":"he","char":"א"}
+{"word":"אנתרופולוגיה ","description":" חקר התפתחות האדם.","lang":"he","char":"א"}
+{"word":"אסדה ","description":" רפסודה, דוברה, ארבה, בוצית.","lang":"he","char":"א"}
+{"word":"אסוך ","description":" כד לשמן.","lang":"he","char":"א"}
+{"word":"אסופה ","description":" קובץ מאמרים, אנתולוגיה.","lang":"he","char":"א"}
+{"word":"אסופי ","description":" ילד שנאסף מן הרחוב.","lang":"he","char":"א"}
+{"word":"אסטרונומי ","description":" גדול מאוד, עצום.","lang":"he","char":"א"}
+{"word":"אסימילציה ","description":" הטמעה, הידמות, התבוללות.","lang":"he","char":"א"}
+{"word":"אסכולה ","description":" 1. שיטה, דיסציפלינה, דוקטרינה;2. קבוצה הדוגלת ברעיון מסוים.","lang":"he","char":"א"}
+{"word":"אסכלה ","description":" 1. סולם מדרגות, כבש; 2. גריל.","lang":"he","char":"א"}
+{"word":"אסם ","description":" מחסן תבואה, ממגורה, אמבר.","lang":"he","char":"א"}
+{"word":"אסמכתא ","description":" מקור שאפשר להסתמך עליו.","lang":"he","char":"א"}
+{"word":"אספלנית ","description":" פלסטר, תחבושת.","lang":"he","char":"א"}
+{"word":"אספקלריה ","description":" ראי.","lang":"he","char":"א"}
+{"word":"אסקופה ","description":" סף.","lang":"he","char":"א"}
+{"word":"אסר מלחמה ","description":" פתח בקרב.","lang":"he","char":"א"}
+{"word":"אסרטיבי ","description":" בטוח בעצמו, עומד על שלו.","lang":"he","char":"א"}
+{"word":"אף ","description":" כעס.","lang":"he","char":"א"}
+{"word":"אפודה ","description":" מיזע, סווטשרט.","lang":"he","char":"א"}
+{"word":"אפוטרופוס ","description":" ממונה לטיפול בקטין, פטרון.","lang":"he","char":"א"}
+{"word":"אפולוגטיקה ","description":" הצטדקות.","lang":"he","char":"א"}
+{"word":"אפוסטריורי ","description":" למפרע, על מה שכבר נעשה, בדיעבד, מראש.","lang":"he","char":"א"}
+{"word":"אפוף ","description":" עטוף, מוקף במשהו.","lang":"he","char":"א"}
+{"word":"אפוקליפסה ","description":" חזון אחרית הימים.","lang":"he","char":"א"}
+{"word":"אפיזודה ","description":" מקרה, מאורע בודד.","lang":"he","char":"א"}
+{"word":"אפיל ","description":" איחר להבשיל.","lang":"he","char":"א"}
+{"word":"אפילוג ","description":" אחרית דבר, סיום.","lang":"he","char":"א"}
+{"word":"אפיפית ","description":" ופל, ביסקויט, תופין, רקיק, פכסם.","lang":"he","char":"א"}
+{"word":"אפיקורוס ","description":" כופר בדת, מין, אתיאיסט.","lang":"he","char":"א"}
+{"word":"אפיקורסות ","description":" כפירה.","lang":"he","char":"א"}
+{"word":"אפיריון ","description":" מושב שמעליו חופה לנשיאת אנשים.","lang":"he","char":"א"}
+{"word":"אפס קצהו ","description":" רק קצת ממנו.","lang":"he","char":"א"}
+{"word":"אפקט ","description":" השפעה.","lang":"he","char":"א"}
+{"word":"אפרופו ","description":" אגב.","lang":"he","char":"א"}
+{"word":"אפריורי ","description":" מראש, מלכתחילה, למפרע.","lang":"he","char":"א"}
+{"word":"אפרכסת ","description":" 1. אזנית הטלפון;2. חלקה החיצוני של האוזן.","lang":"he","char":"א"}
+{"word":"אפרקדן ","description":" שוכב על הגב, פרקדן.","lang":"he","char":"א"}
+{"word":"אץ ","description":" רץ, נחפז, ממהר.","lang":"he","char":"א"}
+{"word":"אצבע צרדה ","description":" אמה, האצבע האמצעית.","lang":"he","char":"א"}
+{"word":"אצבעון ","description":" כיפת מתכת ששמים על האצבע בשעת התפירה.","lang":"he","char":"א"}
+{"word":"אצטלה ","description":" גלימת אדם מכובד.","lang":"he","char":"א"}
+{"word":"אצעדה ","description":" צמיד, עדי, משכית.","lang":"he","char":"א"}
+{"word":"אצר ","description":" אסף, אגר, צבר.","lang":"he","char":"א"}
+{"word":"אקוטי","description":"1. חד; 2. חריף, חמור.","lang":"he","char":"א"}
+{"word":"אקונומי ","description":" חסכני.","lang":"he","char":"א"}
+{"word":"אקזוטי ","description":" יוצא דופן, מרתק עקב זרותו.","lang":"he","char":"א"}
+{"word":"אקלקטי ","description":" מלוקט, מקובץ ממקורות שונים.","lang":"he","char":"א"}
+{"word":"אקסיומה ","description":" הנחה שאין עליה ערעור.","lang":"he","char":"א"}
+{"word":"אקסצנטרי ","description":" חריג, מוזר, תמהוני, ביזארי.","lang":"he","char":"א"}
+{"word":"אקרן ","description":" מסך, מרקע, בד.","lang":"he","char":"א"}
+{"word":"אראל ","description":" מלאך, כרוב, שרף.","lang":"he","char":"א"}
+{"word":"ארגומנט ","description":" טיעון.","lang":"he","char":"א"}
+{"word":"ארוגני ","description":" אזור רגיש לגירוי מיני.","lang":"he","char":"א"}
+{"word":"ארבה ","description":" סירה שטוחה, רפסודה.","lang":"he","char":"א"}
+{"word":"ארוגנטי ","description":" רברבן.","lang":"he","char":"א"}
+{"word":"ארוזיה ","description":" שחיקה.","lang":"he","char":"א"}
+{"word":"ארוכה ","description":" 1. גלד של פצע; 2. רפואה.","lang":"he","char":"א"}
+{"word":"ארומה ","description":" ריח נעים, ניחוח.","lang":"he","char":"א"}
+{"word":"ארחי פרחי ","description":" 1. בטלנים, ריקים; 2. נודדים.","lang":"he","char":"א"}
+{"word":"אריה ","description":" קטיפה, איסוף (בעיקר תאנים ודבש).","lang":"he","char":"א"}
+{"word":"אריח ","description":" מרצפת.","lang":"he","char":"א"}
+{"word":"אריסטוקרט ","description":" אציל, שוע, בעל בעמיו, מרקיז.","lang":"he","char":"א"}
+{"word":"ארכאי ","description":" עתיק, מיושן.","lang":"he","char":"א"}
+{"word":"ארך אפיים ","description":" סבלן, מתאפק מלכעוס.","lang":"he","char":"א"}
+{"word":"ארכובה ","description":" 1. ברך; 2. דבר כפוף כברך.","lang":"he","char":"א"}
+{"word":"ארכוף ","description":" טבעת בצד האוכף, שבה שם הרוכב את כף רגלו, משוורת.","lang":"he","char":"א"}
+{"word":"ארכיב ","description":" ארכיון, גנזך.","lang":"he","char":"א"}
+{"word":"ארכיבישוף ","description":" דרגת כמורה גבוהה.","lang":"he","char":"א"}
+{"word":"ארכיפלג ","description":" קבוצת איים.","lang":"he","char":"א"}
+{"word":"ארעי ","description":" זמני, קיקיוני, אקראי, בר-חלוף.","lang":"he","char":"א"}
+{"word":"ארץ גזרה ","description":" 1. ארץ רחוקה ונידחת; 2. מושבת עונשין.","lang":"he","char":"א"}
+{"word":"ארצי ","description":" חומרי, גופני, פיזי, גשמי.","lang":"he","char":"א"}
+{"word":"ארר ","description":" קילל, חירף, גידף, גינה, ניאץ.","lang":"he","char":"א"}
+{"word":"אשמאי ","description":" חוטא ; בביטוי: אשמאי זקן (חוטא זקן).","lang":"he","char":"א"}
+{"word":"אשמורת ","description":" חלק מהלילה (לרוב שליש).","lang":"he","char":"א"}
+{"word":"אשפה ","description":" נרתיק לחצים, תלי.","lang":"he","char":"א"}
+{"word":"אשפרה ","description":" גימור האריג.","lang":"he","char":"א"}
+{"word":"אתיאיזם ","description":" כפירה באל, מינות, אפיקורסות.","lang":"he","char":"א"}
+{"word":"אתיקה ","description":" תורת המוסר.","lang":"he","char":"א"}
+{"word":"אתנחתא ","description":" הפסקה.","lang":"he","char":"א"}
+

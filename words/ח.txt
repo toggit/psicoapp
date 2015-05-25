@@ -1,0 +1,182 @@
+{"word":"חאן ","description":" אכסניה, מלון אורחים, פונדק.","lang":"he","char":"ח"}
+{"word":"חבוט ","description":" נדוש, בנאלי, שאין בו עניין.","lang":"he","char":"ח"}
+{"word":"חבורה ","description":" פצע, חבלה, נגע.","lang":"he","char":"ח"}
+{"word":"חבוש ","description":" קשור, כלוא, אסור.","lang":"he","char":"ח"}
+{"word":"חביצה ","description":" פודינג, רפרפת.","lang":"he","char":"ח"}
+{"word":"חבל ","description":" 1. אזור, גליל; 2. קבוצה, סיעה.","lang":"he","char":"ח"}
+{"word":"חבל ","description":" כאב.","lang":"he","char":"ח"}
+{"word":"חבק ","description":" חביקה, לפיתה, אחיזה חזקה.","lang":"he","char":"ח"}
+{"word":"חברבר ","description":" מנומר, בעל חברבורות.","lang":"he","char":"ח"}
+{"word":"חבר מרעים ","description":" חברים.","lang":"he","char":"ח"}
+{"word":"חג ","description":" הסתובב, סב.","lang":"he","char":"ח"}
+{"word":"חגו ","description":" סדק, נקיק, חריץ, נקרה, בקיע.","lang":"he","char":"ח"}
+{"word":"חגר שק ","description":" התאבל, נשא קינה.","lang":"he","char":"ח"}
+{"word":"חדגוני ","description":" משעמם, מונוטוני.","lang":"he","char":"ח"}
+{"word":"חדוה ","description":" שמחה, ששון, גיל, דיצה.","lang":"he","char":"ח"}
+{"word":"חדור ","description":" מלא, ספוג, רווי.","lang":"he","char":"ח"}
+{"word":"חדל אישים ","description":" לא יוצלח.","lang":"he","char":"ח"}
+{"word":"חדל ישע ","description":" חסר אונים.","lang":"he","char":"ח"}
+{"word":"חדשים לבקרים ","description":" מפעם לפעם, שוב ושוב.","lang":"he","char":"ח"}
+{"word":"חוד החנית ","description":" החלק העומד בראש מבצעי משימה כלשהי.","lang":"he","char":"ח"}
+{"word":"חווק ","description":" שלב בסולם.","lang":"he","char":"ח"}
+{"word":"חוזר על הפתחים ","description":" מקבץ נדבות.","lang":"he","char":"ח"}
+{"word":"חוח ","description":" סוג של קוץ, דרדר, חרול.","lang":"he","char":"ח"}
+{"word":"חוט השני ","description":" קו יסודי, תכונה אופיינית.","lang":"he","char":"ח"}
+{"word":"חוט השערה ","description":" דבר קטן ומועט ביותר.","lang":"he","char":"ח"}
+{"word":"חוטבי עצים ושואבי מים ","description":" פשוטים, חסרי השכלה, בורים.","lang":"he","char":"ח"}
+{"word":"חוטם ","description":" אף.","lang":"he","char":"ח"}
+{"word":"חוטר ","description":" 1. ענף עיקרי היוצא מגזע עץ; 2. צאצא; 3. מקל דק המשמש לניקוי קנים ומקטרות.","lang":"he","char":"ח"}
+{"word":"חוילה ","description":" וילה, בית פרטי.","lang":"he","char":"ח"}
+{"word":"חוכא ואטלולא ","description":" צחוק גדול, לעג וקלס.","lang":"he","char":"ח"}
+{"word":"חוכך בדעתו ","description":" מהסס, מתלבט, מתחבט.","lang":"he","char":"ח"}
+{"word":"חוכר ","description":" שוכר קרקע או עסק.","lang":"he","char":"ח"}
+{"word":"חוליגן ","description":" בריון.","lang":"he","char":"ח"}
+{"word":"חולש ","description":" שולט, מושל.","lang":"he","char":"ח"}
+{"word":"חומץ בן יין ","description":" רשע בן צדיק.","lang":"he","char":"ח"}
+{"word":"חומר ","description":" אדמה המשמשת לקדרות, טיט.","lang":"he","char":"ח"}
+{"word":"חומרה ","description":" מכלול הרכיבים הפיסיים של המחשב.","lang":"he","char":"ח"}
+{"word":"חוסן ","description":" כוח, עוז, גבורה, און.","lang":"he","char":"ח"}
+{"word":"חופן ","description":" מלוא היד.","lang":"he","char":"ח"}
+{"word":"חופף ","description":" שווה בדיוק לאחר, זהה לגמרי.","lang":"he","char":"ח"}
+{"word":"חוצב להבות אש ","description":" מלהיב בדבריו.","lang":"he","char":"ח"}
+{"word":"חוצן ","description":" שולי הבגד.","lang":"he","char":"ח"}
+{"word":"חוק דרקוני ","description":" חוק לא הגיוני ושרירותי.","lang":"he","char":"ח"}
+{"word":"חור ","description":" אדם נכבד.","lang":"he","char":"ח"}
+{"word":"חורמה ","description":" השמדה, כליון, כליה, חידלון.","lang":"he","char":"ח"}
+{"word":"חורשף ","description":" ארטישוק, קנרס.","lang":"he","char":"ח"}
+{"word":"חושך שבטו שונא בנו ","description":" יש צורך ביד קשה כחלק מהחינוך.","lang":"he","char":"ח"}
+{"word":"חותלת ","description":" אריג שכורכים סביב שוק הרגל.","lang":"he","char":"ח"}
+{"word":"חזון נפרץ ","description":" תופעה שכיחה.","lang":"he","char":"ח"}
+{"word":"חזקה ","description":" זכות קניין ובעלות.","lang":"he","char":"ח"}
+{"word":"חזקה עליו ","description":" ודאי.","lang":"he","char":"ח"}
+{"word":"חזר כלעומת שבא ","description":" חזר בידיים ריקות.","lang":"he","char":"ח"}
+{"word":"חזר לסורו ","description":" שב למנהגיו הרעים.","lang":"he","char":"ח"}
+{"word":"חח ","description":" טבעת ברזל באף הבהמה.","lang":"he","char":"ח"}
+{"word":"חט ","description":" השן החדה בקדמת הפה.","lang":"he","char":"ח"}
+{"word":"חט ","description":" שן פיל.","lang":"he","char":"ח"}
+{"word":"חטוטרת ","description":" גיבנת, גבנון.","lang":"he","char":"ח"}
+{"word":"חיבוטי נפש ","description":" התלבטויות.","lang":"he","char":"ח"}
+{"word":"חיבוטי קבר ","description":" סבל רב, ייסורים.","lang":"he","char":"ח"}
+{"word":"חיבוטים","description":"לבטים.","lang":"he","char":"ח"}
+{"word":"חיבוץ ","description":" עשיית חמאה מחלב או שמנת.","lang":"he","char":"ח"}
+{"word":"חיבוק דוב ","description":" קשר רגשי שחונק וכובל.","lang":"he","char":"ח"}
+{"word":"חיברות ","description":" הקניית ערכי החברה, סוציאליזציה.","lang":"he","char":"ח"}
+{"word":"חיגר ","description":" צולע, פיסח.","lang":"he","char":"ח"}
+{"word":"חידוד ","description":" בדיחה, שנינה, הלצה.","lang":"he","char":"ח"}
+{"word":"חידלון ","description":" אבדון, כליה, כליון, אפסות.","lang":"he","char":"ח"}
+{"word":"חיוה ","description":" אמר, הביע.","lang":"he","char":"ח"}
+{"word":"חיוני ","description":" 1. הכרחי, לחם חוק; 2. מלא חיים ורעננות, ויטאלי.","lang":"he","char":"ח"}
+{"word":"חיי שעה ","description":" חיים של הנאה מהרגע, הדוניזם.","lang":"he","char":"ח"}
+{"word":"חיכה עד בוש ","description":" חיכה לשווא.","lang":"he","char":"ח"}
+{"word":"חיל ","description":" 1. כוח, גבורה; 2. יכולת, הישג.","lang":"he","char":"ח"}
+{"word":"חיל ","description":" פחד, יראה, חרדה, אימה.","lang":"he","char":"ח"}
+{"word":"חיל ורעדה ","description":" פחד.","lang":"he","char":"ח"}
+{"word":"חילוט ","description":" קביעה מוחלטת.","lang":"he","char":"ח"}
+{"word":"חילוי ","description":" בקשה, תחינה, עתירה.","lang":"he","char":"ח"}
+{"word":"חילול ","description":" ביזוי, השפלה, הפרה.","lang":"he","char":"ח"}
+{"word":"חילופי גברי ","description":" שינוי באיוש תפקידים.","lang":"he","char":"ח"}
+{"word":"חילחול ","description":" חדירה פנימה.","lang":"he","char":"ח"}
+{"word":"חילץ את עצמותיו ","description":" התמתח, התאוורר.","lang":"he","char":"ח"}
+{"word":"חימה ","description":" כעס רב, זעם, חרון, עברה.","lang":"he","char":"ח"}
+{"word":"חיסיון ","description":" הגנה משפטית לשמירת סודיות.","lang":"he","char":"ח"}
+{"word":"חיפוי ","description":" כיסוי, ציפוי, קירוי.","lang":"he","char":"ח"}
+{"word":"חיץ ","description":" מחיצה, קיר מבדיל.","lang":"he","char":"ח"}
+{"word":"חירוף ","description":" ביזוי, גידוף, קללה.","lang":"he","char":"ח"}
+{"word":"חירוף נפש ","description":" סיכון עצמי.","lang":"he","char":"ח"}
+{"word":"חישב להתפקע ","description":" עומד להתפרק.","lang":"he","char":"ח"}
+{"word":"חישול ","description":" 1. עיצוב, גיבוש;2. חיזוק באמצעות התנסויות מפרכות.","lang":"he","char":"ח"}
+{"word":"חישור ","description":" מוט המחבר בין חישוק הגלגל למרכזו.","lang":"he","char":"ח"}
+{"word":"חישן ","description":" הססן, חששן, רהוי, מוג לב.","lang":"he","char":"ח"}
+{"word":"חישר ","description":" טפטף.","lang":"he","char":"ח"}
+{"word":"חיתוך דיבור ","description":" צורת דיבור, מבטא.","lang":"he","char":"ח"}
+{"word":"חכירה ","description":" שכירת קרקע או נכס תמורת תשלום.","lang":"he","char":"ח"}
+{"word":"חכלילי ","description":" אדמדם, שני, סיקרה, ארגמן.","lang":"he","char":"ח"}
+{"word":"חל ","description":" מתרחש.","lang":"he","char":"ח"}
+{"word":"חלאה ","description":" לכלוך, טינופת, זוהמה, סחי.","lang":"he","char":"ח"}
+{"word":"חלב ","description":" כינוי לשעווה של נר.","lang":"he","char":"ח"}
+{"word":"חלבו ודמו ","description":" מיטב כוחותיו.","lang":"he","char":"ח"}
+{"word":"חלד ","description":" 1. ארץ, תבל, קוסמוס; 2. חיי אדם.","lang":"he","char":"ח"}
+{"word":"חלומות באספמיה ","description":" חלומות לא מציאותיים, אוטופיה, אשליה.","lang":"he","char":"ח"}
+{"word":"חלונות גבוהים ","description":" אנשי הפקידות הגבוהה.","lang":"he","char":"ח"}
+{"word":"חלופה ","description":" תחליף, אלטרנטיבה.","lang":"he","char":"ח"}
+{"word":"חלחולת ","description":" פי הטבעת.","lang":"he","char":"ח"}
+{"word":"חלחלה ","description":" רעד, בהלה, חיל, פיק.","lang":"he","char":"ח"}
+{"word":"חלט ","description":" יצק מים רותחים, שלק, שפת.","lang":"he","char":"ח"}
+{"word":"חליצה ","description":" הסרת נעל מרגל היבם על-ידי אשת אחיו, שמת בלא בנים, כאות לכך שהיא פוטרת אותו מלשאת אותה לאשה.","lang":"he","char":"ח"}
+{"word":"חלכאי ","description":" עני, אביון, דל.","lang":"he","char":"ח"}
+{"word":"חלמאי ","description":" שוטה.","lang":"he","char":"ח"}
+{"word":"חלפן ","description":" אדם המחליף מטבעות ושטרות כסף.","lang":"he","char":"ח"}
+{"word":"חלק הארי ","description":" החלק הגדול ביותר.","lang":"he","char":"ח"}
+{"word":"חלשה דעתו ","description":" הצטער מאוד, נפלה רוחו.","lang":"he","char":"ח"}
+{"word":"חם מזג ","description":" אימפולסיבי, עצבני.","lang":"he","char":"ח"}
+{"word":"חמד ","description":" רצה, התאווה, תאב, השתוקק.","lang":"he","char":"ח"}
+{"word":"חמד לצון ","description":" התבדח.","lang":"he","char":"ח"}
+{"word":"חמה ","description":" שמש.","lang":"he","char":"ח"}
+{"word":"חמור גרם ","description":" טיפש, עקשן.","lang":"he","char":"ח"}
+{"word":"חמס ","description":" שוד, גזל.","lang":"he","char":"ח"}
+{"word":"חמקמק ","description":" מתחמק, מתפתל, משתמט.","lang":"he","char":"ח"}
+{"word":"חמרי ","description":" ארצי, גשמי, מטריאלי.","lang":"he","char":"ח"}
+{"word":"חמת ","description":" שק עור לנוזלים, נאד.","lang":"he","char":"ח"}
+{"word":"חמתה מרובה מצילתה ","description":" החיוב רב על השלילה.","lang":"he","char":"ח"}
+{"word":"חנווני ","description":" בעל חנות.","lang":"he","char":"ח"}
+{"word":"חנוט ","description":" שמור ללא שינוי, מומיה.","lang":"he","char":"ח"}
+{"word":"חנחון ","description":" גנדרנות, טרזנות.","lang":"he","char":"ח"}
+{"word":"חס ","description":" ריחם, חמל.","lang":"he","char":"ח"}
+{"word":"חס על כבודו ","description":" שמר על כבודו.","lang":"he","char":"ח"}
+{"word":"חסה ","description":" הסתתר, בטח, סמך.","lang":"he","char":"ח"}
+{"word":"חסון ","description":" חזק, בעל כוח רב.","lang":"he","char":"ח"}
+{"word":"חסות ","description":" מקלט, מחסה, אפוטרופסות.","lang":"he","char":"ח"}
+{"word":"חסיד שוטה ","description":" קנאי לרעיון בצורה עיוורת.","lang":"he","char":"ח"}
+{"word":"חסך ","description":" מחסור, גירעון, פחת.","lang":"he","char":"ח"}
+{"word":"חסר שחר ","description":" חסר ביסוס, חסר מובן.","lang":"he","char":"ח"}
+{"word":"חף ","description":" 1. לא אשם; 2. נקי, צח, זך.","lang":"he","char":"ח"}
+{"word":"חפוי ראש ","description":" 1. מבויש, נכלם; 2. אבל.","lang":"he","char":"ח"}
+{"word":"חפיסה ","description":" צרור, חבילה קטנה.","lang":"he","char":"ח"}
+{"word":"חפיר ","description":" תעלה חפורה סביב מבצר להגנה.","lang":"he","char":"ח"}
+{"word":"חפן ","description":" מילא את כף ידו, אחז, לפת.","lang":"he","char":"ח"}
+{"word":"חפץ ","description":" רצה, אבה.","lang":"he","char":"ח"}
+{"word":"חפץ כפיים ","description":" חריצות, שקידה.","lang":"he","char":"ח"}
+{"word":"חפת ","description":" קיפול של שולי הבגד כלפי מעלה.","lang":"he","char":"ח"}
+{"word":"חצה את הרוביקון ","description":" עשה צעד גורלי.","lang":"he","char":"ח"}
+{"word":"חצובה ","description":" בסיס בן שלוש רגליים להגבהה.","lang":"he","char":"ח"}
+{"word":"חציצה ","description":" הפרדה, הבדלה, סייג.","lang":"he","char":"ח"}
+{"word":"חציר ","description":" שם כולל לעשבים המשמשים למאכל בהמות.","lang":"he","char":"ח"}
+{"word":"חקוק ","description":" חרוט.","lang":"he","char":"ח"}
+{"word":"חרב דמוקלס ","description":" סכנה גדולה ומאיימת.","lang":"he","char":"ח"}
+{"word":"חרב חדה מונחת על צווארו ","description":" נמצא בסכנה גדולה.","lang":"he","char":"ח"}
+{"word":"חרב פיפיות ","description":" דבר שעשוי לפגוע בעושהו, בומרנג.","lang":"he","char":"ח"}
+{"word":"חרבה ","description":" יבשה, מקום יבש.","lang":"he","char":"ח"}
+{"word":"חרול ","description":" קוץ, דרדר, חוח.","lang":"he","char":"ח"}
+{"word":"חרום ","description":" פחוס או שקוע.","lang":"he","char":"ח"}
+{"word":"חרון","description":" כעס, חימה, זעם, חרי.","lang":"he","char":"ח"}
+{"word":"חרון אף ","description":" כעס רב.","lang":"he","char":"ח"}
+{"word":"חרוק שיניים ","description":" זעם, רוגז רב תוך התאפקות מתגובה אלימה.","lang":"he","char":"ח"}
+{"word":"חרי ","description":" כעס, חרון, חימה, זעם, קצף.","lang":"he","char":"ח"}
+{"word":"חריט ","description":" ארנק.","lang":"he","char":"ח"}
+{"word":"חריץ ","description":" נתח, חתיכה, פרוסה.","lang":"he","char":"ח"}
+{"word":"חרישי ","description":" שקט.","lang":"he","char":"ח"}
+{"word":"חרך ","description":" חלון, אשנב, צוהר.","lang":"he","char":"ח"}
+{"word":"חרמש ","description":" כלי לקצירת תבואה המורכב מסכין בצורת קשת.","lang":"he","char":"ח"}
+{"word":"חרפה ","description":" בושה, כלימה, בזיון.","lang":"he","char":"ח"}
+{"word":"חרץ את לשונו ","description":" איים.","lang":"he","char":"ח"}
+{"word":"חרצובה ","description":" קשר, כבל, שלשלת.","lang":"he","char":"ח"}
+{"word":"חרקירי ","description":" התאבדות.","lang":"he","char":"ח"}
+{"word":"חרש ","description":" אומן, בעל מלאכה.","lang":"he","char":"ח"}
+{"word":"חרשף ","description":" ארטישוק, קנרס (גם “חורשף”).","lang":"he","char":"ח"}
+{"word":"חרש רעה ","description":" חשב להרע, התנכל, זמם.","lang":"he","char":"ח"}
+{"word":"חרת ","description":" חקק.","lang":"he","char":"ח"}
+{"word":"חשוך ","description":" מחוסר, נטול.","lang":"he","char":"ח"}
+{"word":"חשוך בנים ","description":" שאין לו ילדים.","lang":"he","char":"ח"}
+{"word":"חשק ","description":" חיבר, הצמיד.","lang":"he","char":"ח"}
+{"word":"חשרה ","description":" ערימה, צבר, גל, תל.","lang":"he","char":"ח"}
+{"word":"חשרת עננים ","description":" ערימת עננים.","lang":"he","char":"ח"}
+{"word":"חת ","description":" פחד, יראה, אימה, מורא.","lang":"he","char":"ח"}
+{"word":"חתה ","description":" גרף גחלים.","lang":"he","char":"ח"}
+{"word":"חתה גחלים על ראשו ","description":" גרם לו ייסורים.","lang":"he","char":"ח"}
+{"word":"חתול בשק ","description":" משהו שטיבו אינו ברור.","lang":"he","char":"ח"}
+{"word":"חתול שחור עבר ביניהם ","description":" רבו.","lang":"he","char":"ח"}
+{"word":"חתיכה הראויה להתכבד בה ","description":" חלק גדול.","lang":"he","char":"ח"}
+{"word":"חתימת זקן ","description":" סימן של זקן.","lang":"he","char":"ח"}
+{"word":"חתף ","description":" שוד, חטיפה.","lang":"he","char":"ח"}
+{"word":"חתר ","description":" 1. פרץ, בקע; 2. פעל בחשאי נגד מישהו.","lang":"he","char":"ח"}
+{"word":"חתרני ","description":" לא נאמן.","lang":"he","char":"ח"}
