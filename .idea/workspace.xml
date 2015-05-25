@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6aebc8d-9015-4850-92a5-36da858d7996" name="Default" comment="">
-      <change type="DELETED" beforePath="V:\Projects\test\node-js-getting-started\words\א.txt" afterPath="" />
-      <change type="DELETED" beforePath="V:\Projects\test\node-js-getting-started\words\ז.txt" afterPath="" />
-      <change type="DELETED" beforePath="V:\Projects\test\node-js-getting-started\words\ח.txt" afterPath="" />
-      <change type="DELETED" beforePath="V:\Projects\test\node-js-getting-started\words\ט.txt" afterPath="" />
-      <change type="DELETED" beforePath="V:\Projects\test\node-js-getting-started\words\י.txt" afterPath="" />
-      <change type="DELETED" beforePath="V:\Projects\test\node-js-getting-started\words\כ.txt" afterPath="" />
-      <change type="DELETED" beforePath="V:\Projects\test\node-js-getting-started\words\ל.txt" afterPath="" />
-      <change type="DELETED" beforePath="V:\Projects\test\node-js-getting-started\words\מ.txt" afterPath="" />
-      <change type="DELETED" beforePath="V:\Projects\test\node-js-getting-started\words\נ.txt" afterPath="" />
-      <change type="DELETED" beforePath="V:\Projects\test\node-js-getting-started\words\ס.txt" afterPath="" />
-      <change type="DELETED" beforePath="V:\Projects\test\node-js-getting-started\words\ע.txt" afterPath="" />
-      <change type="DELETED" beforePath="V:\Projects\test\node-js-getting-started\words\פ.txt" afterPath="" />
-      <change type="DELETED" beforePath="V:\Projects\test\node-js-getting-started\words\צ.txt" afterPath="" />
-      <change type="DELETED" beforePath="V:\Projects\test\node-js-getting-started\words\ק.txt" afterPath="" />
-      <change type="DELETED" beforePath="V:\Projects\test\node-js-getting-started\words\ר.txt" afterPath="" />
-      <change type="DELETED" beforePath="V:\Projects\test\node-js-getting-started\words\ש.txt" afterPath="" />
-      <change type="DELETED" beforePath="V:\Projects\test\node-js-getting-started\words\ת.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/routers/api.js" afterPath="$PROJECT_DIR$/server/routers/api.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/controllers/wordController.js" afterPath="$PROJECT_DIR$/server/controllers/wordController.js" />
     </list>
     <ignored path="node-js-getting-started.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,20 +33,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wordController.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="wordController.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server/controllers/wordController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="73" column="20" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.57062936">
+              <caret line="74" column="37" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="api.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="api.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/routers/api.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21398601">
+            <state vertical-scroll-proportion="0.0">
               <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
               <folding />
             </state>
@@ -83,8 +66,8 @@
         <option value="$PROJECT_DIR$/server/models/wordsModel.js" />
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/client/js/angular/services/connectionSrv.js" />
-        <option value="$PROJECT_DIR$/server/controllers/wordController.js" />
         <option value="$PROJECT_DIR$/server/routers/api.js" />
+        <option value="$PROJECT_DIR$/server/controllers/wordController.js" />
       </list>
     </option>
   </component>
@@ -371,7 +354,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="35" />
+      <option name="time" value="45" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -514,14 +497,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/express/lib/router/layer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5587121">
@@ -530,18 +505,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/controllers/wordController.js">
+    <entry file="file://$PROJECT_DIR$/server/routers/api.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="73" column="20" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/routers/api.js">
+    <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21398601">
-          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/controllers/wordController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57062936">
+          <caret line="74" column="37" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
           <folding />
         </state>
       </provider>
