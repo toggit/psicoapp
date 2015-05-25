@@ -6,8 +6,9 @@ module.exports = (function() {
     var api = express.Router();
 
     // everyone
-   // api.get('/import', wordController.import2mongo);
-   api.get('/words', wordController.get10Words);
+    // api.get('/import', wordController.import2mongo);
+    api.get('/words', wordController.get10Words);
+    api.post('/import', wordController.postMeJson);
 
     return api;
 })();

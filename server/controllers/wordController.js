@@ -2,6 +2,18 @@ var WordModel = require('../models/wordModel');
 var request = require('request');
 
 //********************************** Load Data ********************************************
+module.exports.postMeJson = function(req,res)
+{
+        var words = JSON.parse(body);
+
+        words.forEach(function(word) {
+            saveWord(word);
+        });
+
+        console.log("save like done");
+        res.sendStatus(200);
+}
+
 module.exports.import2mongo = function(req,res)
 {
     request('http://192.168.1.150:8089/psico/words/4', function (error, response, body) {
@@ -31,8 +43,10 @@ function saveWord(word) {
 
     newWord.word = (word.question);
     newWord.description = (word.answer);
-    newWord.lang ='he'
-    newWord.char ='א';
+    if(!newWord.lang)
+        newWord.lang ='he'
+    if(!newWord.char)
+        newWord.char ='א';
 
     newWord.save(function(err, word) {
         if (err) return console.error(err);
