@@ -4,7 +4,7 @@ var request = require('request');
 //********************************** Load Data ********************************************
 module.exports.postMeJson = function(req,res)
 {
-        var words = JSON.parse(body);
+        var words = req.body;
 
         words.forEach(function(word) {
             saveWord(word);
@@ -41,12 +41,10 @@ function saveWord(word) {
 
     var newWord = new WordModel();
 
-    newWord.word = (word.question);
-    newWord.description = (word.answer);
-    if(!newWord.lang)
-        newWord.lang ='he'
-    if(!newWord.char)
-        newWord.char ='א';
+    newWord.word = (word.word);
+    newWord.description = (word.description);
+    newWord.lang = word.lang;
+    newWord.char =word.char;
 
     newWord.save(function(err, word) {
         if (err) return console.error(err);
