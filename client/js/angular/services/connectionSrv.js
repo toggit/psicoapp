@@ -3,18 +3,22 @@
  */
 app.factory('connectionSrv',function($http,$q){
     var conjson = undefined;
+    var query_word = undefined
     return{
-        get: function(){
+        setQuery: function(data){
+            query_word = data;
+        },
+        getQuery: function(){
+            return query_word;
+        },
+        get: function(data){
             //var p=
-            //var mongo = 'http://192.168.1.150:5000/api/words';
+            var mongo = 'http://192.168.1.150:5000/api/words';
             //var good = 'http://192.168.1.150:8089/psico/words/123';
             //var server = 'http://psicoproject.herokuapp.com/psico/words/123';
-            var server = 'http://psicoapp.herokuapp.com/api/words';
+            //var server = 'http://psicoapp.herokuapp.com/api/words';
                 var deffered = $q.defer();
-                $http({
-                    url:server,
-                    params: { 'foobar': new Date().getTime() }
-                }).
+                $http.post(mongo,data).
                     success(function(data){
                         deffered.resolve(data);
                         //return data;

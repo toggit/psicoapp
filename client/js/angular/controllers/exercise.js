@@ -1,5 +1,6 @@
 app.controller('exercise', function($scope, $stateParams, $state,$timeout,connectionSrv) {
     console.log("exercise controller loaded");
+    console.log(connectionSrv.getQuery())
 
     //##########################init #################################
     $scope.lang = $stateParams.lang;
@@ -43,7 +44,7 @@ app.controller('exercise', function($scope, $stateParams, $state,$timeout,connec
     $scope.question_index = 0;
     
 
-    connectionSrv.get().then(function(){
+    connectionSrv.get(connectionSrv.getQuery()).then(function(){
         console.log("get questions : "+connectionSrv.bind() )
         $scope.questions = connectionSrv.bind();
         $scope.load_Question(0);
@@ -102,7 +103,7 @@ app.controller('exercise', function($scope, $stateParams, $state,$timeout,connec
        if ($scope.question_index == 9) {
             $timeout(function(){
                 console.log("get more questions")
-                connectionSrv.get().then(function(){
+                connectionSrv.get(connectionSrv.getQuery()).then(function(){
                 console.log("get more questions : "+connectionSrv.bind() )
                 $scope.questions_buffer = connectionSrv.bind();
                 })
