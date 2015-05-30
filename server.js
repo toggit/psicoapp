@@ -40,7 +40,7 @@ Mongoose.createConnection(global.CONNECTION_STRING, function (err, result) {
     if (result)
         console.log(result);
 });
-
+ 
 app.use(cors());
 //******************************** body parseer for req body ******************************
 app.use(bodyParser.urlencoded({
