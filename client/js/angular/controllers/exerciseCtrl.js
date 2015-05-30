@@ -123,9 +123,10 @@ app.controller('exerciseCtrl', function($scope, $stateParams, $state,$timeout,co
 
              if ($scope.first_click == false) {
                 $timeout(function(){
+                    var answer = a+"";
                     var isexist = false;
                     for(i in $scope.mistakes.list){
-                        if($scope.mistakes.list[i] == a)
+                        if($scope.mistakes.list[i].answer == answer)
                             isexist=true;
                     }
 
