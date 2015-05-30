@@ -28,7 +28,7 @@ app.controller('exerciseCtrl', function($scope, $stateParams, $state,$timeout,co
 
 
     $scope.user_answer = [];
-    $scope.first_click = false;
+    $scope.first_click = true;
     $scope.questions_buffer;
     $scope.questions = []
     /*$scope.questions = [{'q':'אספלנית','o1':'סירה קטנה','o2':'נעלי בית','o3':'קלסר','a':'פלסטר'},
