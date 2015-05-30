@@ -30,29 +30,28 @@ app.controller('chars', function($scope, $stateParams, $state,connectionSrv) {
 
     $scope.selectchar = function(index){
     	for (var i=0 ; i<$scope.select.length ; i++){
-    		if ($scope.select[i] == index) {
+    		if ($scope.select[i] == $scope.chars[index]) {
     			 if ($scope.lang == "en")
     			 	document.getElementById(index).style.background = "#00c0ef";
     			 if ($scope.lang == "he")
     			 	document.getElementById(index).style.background = "#f56954";
     			 $scope.select.splice(i,1);
-    			 console.log("return");
     			 return;
     		};
     	}
 
-    	console.log("add char :"+$scope.chars[index])
+    	//console.log("add char :"+$scope.chars[index])
     	if ($scope.lang == "en")
     		document.getElementById(index).style.background = "#3498DB";
     	if ($scope.lang == "he")
     		document.getElementById(index).style.background = "#E74C3C";
     	$scope.select.push($scope.chars[index]);
-        console.log($scope.select)
+       // console.log($scope.select)
     }
 
 
     $scope.start = function(){
-        console.log($scope.select)
+        //console.log($scope.select)
     	if ($scope.select.length != 0 ) {
             connectionSrv.setQuery({"char":$scope.select,"lang":$scope.lang})
     		$state.go('exercise',{"char":$scope.select,"lang":$scope.lang})

@@ -1,4 +1,4 @@
-app.controller('exercise', function($scope, $stateParams, $state,$timeout,connectionSrv) {
+app.controller('exerciseCtrl', function($scope, $stateParams, $state,$timeout,connectionSrv,dataSrv) {
     console.log("exercise controller loaded");
     console.log(connectionSrv.getQuery())
 
@@ -51,6 +51,7 @@ app.controller('exercise', function($scope, $stateParams, $state,$timeout,connec
     })
     
 
+    $scope.mistakes = {"list":[],"exercises":0}
 
 
 // ######################  function ####################################
@@ -119,21 +120,38 @@ app.controller('exercise', function($scope, $stateParams, $state,$timeout,connec
         console.log($scope.answer);
         if (a == $scope.answer) {
              $scope.isdisabled = true;
+
              if ($scope.first_click == false) {
-                $scope.user_answer.push(a);
+                $timeout(function(){
+                    var isexist = false;
+                    for(i in $scope.mistakes.list){
+                        if($scope.mistakes.list[i] == a)
+                            isexist=true;
+                    }
+
+                    if(!isexist)
+                        $scope.mistakes.list.push({"question":$scope.question,"answer":$scope.answer});
+                    
+                    console.log("in thread")
+                    console.log($scope.mistakes.list)
+                },1);
              };
              $scope.message_style = $scope.alert.good;
              $timeout(function(){
                 $scope.load_Question($scope.question_index)
             },1000);
-             $scope.first_click = false;
+             
+             $scope.first_click = true;
+             $scope.mistakes.exercises ++;
+             console.log($scope.mistakes.exercises)
         } else{
-            
+            $scope.first_click = false;
             $scope.message_style = $scope.alert.wrong;
         };
     }
 
     $scope.sum = function(){
+        dataSrv.setMistakes($scope.mistakes)
         $state.go('summary');
     }
 

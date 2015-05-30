@@ -95,14 +95,14 @@ app.config(function($stateProvider) {
         name: 'exercise',
         url: '/exercise/:lang',
         templateUrl: "js/angular/templates/exercise.html",
-        controller: 'exercise'
+        controller: 'exerciseCtrl'
     }
 
     var summary = {
         name: 'summary',
         url: '/summary',
-        templateUrl: "js/angular/templates/summary.html"//,
-        //controller: 'login'
+        templateUrl: "js/angular/templates/summary.html",
+        controller: 'summaryCtrl'
     }
 
 
